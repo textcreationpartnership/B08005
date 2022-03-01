@@ -1,0 +1,2571 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Organon reipublicæ, or The north starre of pollicie, by which the course of a common-wealth may be directed..</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1605</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 74 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08005</idno>
+            <idno type="OCLC"> 82475158</idno>
+            <idno type="STC">STC 20575.7</idno>
+            <idno type="STC">ESTC S94820</idno>
+            <idno type="EEBO-CITATION">82475158</idno>
+            <idno type="OCLC">ocm 82475158</idno>
+            <idno type="VID">185158</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08005)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185158)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2255:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Organon reipublicæ, or The north starre of pollicie, by which the course of a common-wealth may be directed..</title>
+                  <author>J. R.</author>
+                  <author>I. R.</author>
+                  <author>Sadler, Edmund.</author>
+               </titleStmt>
+               <extent>[38] p. ; 14 x 20 cm.   </extent>
+               <publicationStmt>
+                  <publisher>Imprinted by T.C. for VVilliam VVelby, and are to be sold at his Shoppe in Paules Church-yard, at the Signe of the Gray-hound,,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1605..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed:  Edmunde Sadler [translator].  STC (2nd ed.) gives author as "R., I. or J."</note>
+                  <note>Title page head-piece and ornament; preface and text head-pieces and initials.</note>
+                  <note>Signatures: A-E⁴ (first leaf blank?).</note>
+                  <note>Imperfect: cropped and tightly bound, with loss of text.</note>
+                  <note>Reproduction of original in: Massachusetts Historical Society.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political science --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="dedication">
+            <pb facs="tcp:185158:1"/>
+            <pb facs="tcp:185158:1"/>
+            <head>TO THE RIGHT WORTHIE Knight, Sir Iulius Caeſar, one of the Maiſters <hi>of his Maieſties Court of Requeſtes. &amp;c.</hi>
+            </head>
+            <opener>
+               <salute>Right worthie Sir.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is ſo familiar a cuſtome to dedicate books to ſome perſon or other of note, As he keepes not decorum with theſe times, that accompanies not the ſame courſe. The faſhion at firſt (queſtionleſſe) was propagated by thoſe two pa<g ref="char:EOLhyphen"/>rents, <hi>Affection,</hi> and <hi>Care:</hi> Affection, riſing from the merrited good conceit of the Patrone; Care to preuent the malice of detractors, vnder the Shield of ſome more potent Arme. By the firſt, I deuotedly beare this worke to your worthie iudge<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent,
+<pb facs="tcp:185158:2"/>
+as one whoſe imminent knowledge in matter of State, well fits a worke of ſuch <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ualitie: and the thing it ſelfe, though I imagine it aboue the reach of ſhort-armd detrac<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion, yet your iudiciall allowance may giue it a more quiet paſſage. If I ſeeme ouer-bold in <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his ſort to diſpoſe it, Let my good intent <hi>(I</hi> pray you) excuſe me, which like true truth ap<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eares nakedly in plaine termes. The Originall was in Latin, dedicated to the Kings moſt <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xcellent Maieſtie; The matter ſuch, as I thought pittie ſhould be lockt from thoſe which want the perfection of that Language, and yet would be glad from ſuch a methodicall Picture of words, both to forme their dutie to the State, as alſo to manage their priuate in<g ref="char:EOLhyphen"/>tereſts. Thus hauing according to my poore meaſure, yeelded the reaſons for this my De<g ref="char:EOLhyphen"/>dication, as alſo the cauſe which moued me to publiſh the ſame in Engliſh, deſiring your pardon (if you ſhould diſtaſte my boldneſſe) I humbly ceaſe further to trouble you. Reſting</p>
+            <closer>
+               <signed>Your VVorſhips moſt deuoted, Edmunde Sadler.</signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:185158:2"/>
+            <pb facs="tcp:185158:3"/>
+            <head>The Contents.</head>
+            <list>
+               <item>Of Studie.</item>
+               <item>Of Gouernments.</item>
+               <item>Touching Lawes.</item>
+               <item>The foure Cardinals vertues.</item>
+               <item>Generall and particular.</item>
+               <item>Of Warre.</item>
+               <item>Of Peace.</item>
+               <item>Directions for methodicall diſputations.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:185158:3"/>
+            <div type="part">
+               <head>Concerning Study, and the way to frame ones Study.</head>
+               <list>
+                  <head>In fra<g ref="char:EOLhyphen"/>ming ones ſtudy, two things are to be con<g ref="char:EOLhyphen"/>ſidered.</head>
+                  <item>1. What ſtudy is to be choſen: But it is choſen either of
+<list>
+                        <item>Neceſ<g ref="char:EOLhyphen"/>ſity of
+<list>
+                              <item>State, if one be poore.</item>
+                              <item>Nature, if the wit bee ſomewhat dull.</item>
+                           </list>
+                        </item>
+                        <item>Free will: when either
+<list>
+                              <item>A man is weal<g ref="char:EOLhyphen"/>thy:
+<list>
+                                    <item>By rea<g ref="char:EOLhyphen"/>ſon of theſe, ſome men ſet before them<g ref="char:EOLhyphen"/>ſelues
+<list>
+                                          <item>Com<g ref="char:EOLhyphen"/>mo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                                <desc>•</desc>
+                                             </gap>i<g ref="char:EOLhyphen"/>ties.
+<list>
+                                                <item>Priuate,
+<list>
+                                                      <item>As <gap reason="illegible" resp="#APEX" extent="1 letter">
+                                                            <desc>•</desc>
+                                                         </gap>hey which follow
+<list>
+                                                            <item>Diuinity,</item>
+                                                            <item>Ciuill,
+<list>
+                                                                  <item>Law.</item>
+                                                               </list>
+                                                            </item>
+                                                            <item>Co<g ref="char:cmbAbbrStroke">̄</g>mon,</item>
+                                                            <item>Phiſicke.</item>
+                                                            <item>Schoole diſputations, and the like ſtudies.</item>
+                                                         </list>
+                                                      </item>
+                                                   </list>
+                                                </item>
+                                                <item>Publike,</item>
+                                             </list>
+                                          </item>
+                                          <item>De<g ref="char:EOLhyphen"/>lights of the minde, as they who giue them<g ref="char:EOLhyphen"/>ſelues to Phi<g ref="char:EOLhyphen"/>loſophy, by help wherof, they may
+<list>
+                                                <item>1. Iudge <gap reason="illegible" resp="#APEX" extent="1 letter">
+                                                      <desc>•</desc>
+                                                   </gap>ightly of mat<g ref="char:EOLhyphen"/>ters. And this is called
+<list>
+                                                      <item>1. Rati<g ref="char:EOLhyphen"/>onal, vz.
+<list>
+                                                            <item>Grammer,</item>
+                                                            <item>Rhetoricke,
+<list>
+                                                                  <item>the Art
+<list>
+                                                                        <item>to ſpeake</item>
+                                                                        <item>to plea<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                                                              <desc>•</desc>
+                                                                           </gap>e
+<list>
+                                                                              <item>well.</item>
+                                                                           </list>
+                                                                        </item>
+                                                                        <item>to di<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                                                              <desc>•</desc>
+                                                                           </gap>pute</item>
+                                                                     </list>
+                                                                  </item>
+                                                               </list>
+                                                            </item>
+                                                            <item>Logicke,</item>
+                                                         </list>
+                                                      </item>
+                                                      <item>2. Mo<g ref="char:EOLhyphen"/>rall. viz.
+<list>
+                                                            <item>Ethi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                                                  <desc>•</desc>
+                                                               </gap>ke,</item>
+                                                            <item>Politick,
+<list>
+                                                                  <item>And theſe are to be lear<g ref="char:EOLhyphen"/>ned out of
+<list>
+                                                                        <item>holy Scriptures, eſpecially void of all error.</item>
+                                                                        <item>Pro<g ref="char:EOLhyphen"/>pha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                                                              <desc>•</desc>
+                                                                           </gap>e Au<g ref="char:EOLhyphen"/>thors, as
+<list>
+                                                                              <item>Ariſtoſtle,</item>
+                                                                              <item>Cicero,</item>
+                                                                              <item>Seneca,</item>
+                                                                              <item>Co<gap reason="illegible" resp="#APEX" extent="1 span">
+                                                                                    <desc>〈…〉</desc>
+                                                                                 </gap> 
+                                                                                 <gap reason="illegible" resp="#APEX" extent="1 word">
+                                                                                    <desc>〈◊〉</desc>
+                                                                                 </gap>
+                                                                                 <list>
+                                                                                    <item>
+                                                                                       <gap reason="illegible" resp="#APEX" extent="1 span">
+                                                                                          <desc>〈…〉</desc>
+                                                                                       </gap>g more or <gap reason="illegible" resp="#APEX" extent="1 word">
+                                                                                          <desc>〈◊〉</desc>
+                                                                                       </gap>, this or that way.</item>
+                                                                                 </list>
+                                                                              </item>
+                                                                              <item>H<gap reason="illegible" resp="#APEX" extent="3 letters">
+                                                                                    <desc>•••</desc>
+                                                                                 </gap>ori<gap reason="illegible" resp="#APEX" extent="2 letters">
+                                                                                    <desc>••</desc>
+                                                                                 </gap> graphe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                                                                    <desc>•</desc>
+                                                                                 </gap>s, <gap reason="illegible" resp="#APEX" extent="2 letters">
+                                                                                    <desc>••</desc>
+                                                                                 </gap>ets,</item>
+                                                                              <item>O<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                                                                    <desc>•</desc>
+                                                                                 </gap>at<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                                                                    <desc>•</desc>
+                                                                                 </gap>rs, &amp; <gap reason="illegible" resp="#APEX" extent="3 letters">
+                                                                                    <desc>•••</desc>
+                                                                                 </gap>ers.</item>
+                                                                           </list>
+                                                                        </item>
+                                                                     </list>
+                                                                  </item>
+                                                               </list>
+                                                            </item>
+                                                            <item>Recom<g ref="char:EOLhyphen"/>micke,</item>
+                                                         </list>
+                                                      </item>
+                                                      <item>3. Natu<g ref="char:EOLhyphen"/>rall: here are to be con<g ref="char:EOLhyphen"/>ſidered,
+<list>
+                                                            <item>1. Profit, for it is a<g ref="char:EOLhyphen"/>uaileable
+<list>
+                                                                  <item>1. To purge the minde of corruptions.</item>
+                                                                  <item>2. To contemne e<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                                                        <desc>•</desc>
+                                                                     </gap>rthly things.</item>
+                                                                  <item>3. To ſh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                                                        <desc>•</desc>
+                                                                     </gap>w the frail<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                                                        <desc>•</desc>
+                                                                     </gap> eſtate of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                                                                        <desc>•</desc>
+                                                                     </gap>ll things.</item>
+                                                                  <item>4. To increaſe the care of the ſoule.</item>
+                                                               </list>
+                                                            </item>
+                                                            <item>2. Ob<g ref="char:EOLhyphen"/>iects. viz. the
+<list>
+                                                                  <item>Elements, Earth, S<gap reason="illegible" resp="#APEX" extent="1 span">
+                                                                        <desc>〈…〉</desc>
+                                                                     </gap>, Mountai<gap reason="illegible" resp="#APEX" extent="2 letters">
+                                                                        <desc>••</desc>
+                                                                     </gap>s, Riuers.</item>
+                                                                  <item>Manners, bou<g ref="char:cmbAbbrStroke">̄</g>
+                                                                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                                                                        <desc>•</desc>
+                                                                     </gap>s, conditions of countries, &amp; their gouernmets
+<list>
+                                                                        <item>received.</item>
+                                                                        <item>pronoun<g ref="char:EOLhyphen"/>ced.</item>
+                                                                     </list>
+                                                                  </item>
+                                                                  <item>Vertue of
+<list>
+                                                                        <item>Stones,</item>
+                                                                        <item>Trees,</item>
+                                                                        <item>Hearbes,</item>
+                                                                        <item>Liuing things &amp; their
+<list>
+                                                                              <item>ſtory, ge<g ref="char:EOLhyphen"/>neration &amp; parts.</item>
+                                                                           </list>
+                                                                        </item>
+                                                                     </list>
+                                                                  </item>
+                                                               </list>
+                                                            </item>
+                                                            <item>3. Arts of a like nature, viz.
+<list>
+                                                                  <item>Phiſicke husbandry, warfare, building, pain<g ref="char:EOLhyphen"/>ting, engrauing<g ref="char:punc">▪</g> &amp;c.</item>
+                                                               </list>
+                                                            </item>
+                                                         </list>
+                                                      </item>
+                                                   </list>
+                                                </item>
+                                                <item>2. Vtter their minde in fit<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                                      <desc>•</desc>
+                                                   </gap>e termes. See af<g ref="char:EOLhyphen"/>ter in A<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                                      <desc>•</desc>
+                                                   </gap>.</item>
+                                             </list>
+                                          </item>
+                                       </list>
+                                    </item>
+                                    <item>Hath ſtore of wit giue<g ref="char:cmbAbbrStroke">̄</g> him.</item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                        <item>2. How men ought to perſeuer therein. See after at B. b.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <item>
+                     <pb facs="tcp:185158:4"/>
+Aa 2. The care to expreſſe the minde in fit termes is two-fold,
+<list>
+                        <item>1. That you may ſpeake well, which is brought to paſſe,
+<list>
+                              <item>1. In reading
+<list>
+                                    <item>go<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                          <desc>•</desc>
+                                       </gap>d and corrected
+<list>
+                                          <item>Authors.</item>
+                                       </list>
+                                    </item>
+                                    <item>2. By tranſlating their workes into the mother tongue, in ſignificant words.</item>
+                                    <item>3. By rightly framing within our minde, whatſoever thing wee goe about to write in ou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                          <desc>•</desc>
+                                       </gap> Country language.</item>
+                                    <item>4. By expreſſing it in Latine words properly and purely, ſignifying the ſame thing.</item>
+                                    <item>5. By endeuouring that whatſoeuer you are about to write, that at the beginning you write it very purely, and in good Latine.</item>
+                                 </list>
+                              </item>
+                              <item>2. That you ſpeake eloquently; which will neuer be, vnleſſe your ſpeech be perfect and haue all the parts.</item>
+                           </list>
+                        </item>
+                        <item>Bb 2. Of the choice of ſtudy wee haue ſpoke<g ref="char:cmbAbbrStroke">̄</g>. The way to perſeuer in our ſtudy followeth: And this is effected in obſeruing 3. things.
+<list>
+                              <item>1. In rightly per<g ref="char:EOLhyphen"/>ceiuing what wee learne. This is a worke of diligent reading, which is conuerſant in
+<list>
+                                    <item>throughly vnderſtanding the thing which is deliuered.</item>
+                                    <item>clearely perceiuing the
+<list>
+                                          <item>force</item>
+                                          <item>propriety
+<list>
+                                                <item>of words.</item>
+                                             </list>
+                                          </item>
+                                          <item>conſtruction</item>
+                                          <item>garniſhing</item>
+                                       </list>
+                                    </item>
+                                    <item>conſidering the force of
+<list>
+                                          <item>expreſsing
+<list>
+                                                <item>things in words.</item>
+                                             </list>
+                                          </item>
+                                          <item>and ſpeaking</item>
+                                       </list>
+                                    </item>
+                                    <item>perſeuering, although we happen vpon a place obſcure and darke, vntill time, man, place, or reading, make it manifeſt.</item>
+                                 </list>
+                              </item>
+                              <item>2. In faithfully kee<g ref="char:EOLhyphen"/>ping that which wee learne, This is a work of a truſty memory, which partly
+<list>
+                                    <item>conſiſteth by Nature.</item>
+                                    <item>is holpen by Art. vz.
+<list>
+                                          <item>if
+<list>
+                                                <item>when we muſt plead, we take heed that we want not
+<list>
+                                                      <item>order &amp; propor<g ref="char:EOLhyphen"/>tion.</item>
+                                                   </list>
+                                                </item>
+                                                <item>an often vſe be applied.</item>
+                                                <item>negligence and careleſneſſe be remoued.</item>
+                                                <item>with moſt diligent care we comprehend what we reade.</item>
+                                                <item>very often we require them of our minde.</item>
+                                                <item>the minde be free and quiet from the multitude of other cares.</item>
+                                             </list>
+                                          </item>
+                                       </list>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                     </list>
+                     <list>
+                        <pb facs="tcp:185158:4"/>
+                        <head>3. In brin<g ref="char:EOLhyphen"/>ging forth &amp; framing ſome thing out of theſe, which is a worke of continuall exerciſe. This place comprehen<g ref="char:EOLhyphen"/>deth two things,</head>
+                        <item>1. The things which we learne to be had in a readineſſe.</item>
+                        <item>2. Things to bee inuented and made by our ſelues, out of thoſe things which we haue learned. Heere three things are neceſſary.
+<list>
+                              <item>1. That we haue certain heads, as are
+<list>
+                                    <item>vertue, vice: life, death:</item>
+                                    <item>learning, want of learning: good will, hate:</item>
+                                    <item>and other of the ſame kinde.</item>
+                                    <item>Whatſoeuer things we learn, may well be directed to thoſe heads.
+<list>
+                                          <item>But heere we muſt note, that oftentimes one example or ſentence may bee brought to the ſame heads, according to the ſignification of the words.</item>
+                                       </list>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>2. That out of thoſe things which wee learne, we carfully and dili<g ref="char:EOLhyphen"/>gently conferre the words together, and expreſſe them with a larger dilating.</item>
+                              <item>3. That wee deduct theſe through all the places of Logicke, whence will ſpring great abundance, both for pleading and inven<g ref="char:EOLhyphen"/>ting.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Of Gouernments.</head>
+               <list>
+                  <item>
+                     <pb facs="tcp:185158:5"/>
+Perfect go<g ref="char:EOLhyphen"/>uernments are three,
+<list>
+                        <item>
+                           <hi>Baſili<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>,</hi> that is to ſay, Monarchy, or princely gouernment; as it is with vs at this time laudable and mo<gap reason="illegible" resp="#APEX" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> bleſſed.</item>
+                        <item>
+                           <hi>Ariſtocratia,</hi> viz. The gouernment of the Nobility, as was the gouernment of the firſt and former R<gap reason="illegible" resp="#APEX" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>
+                           <g ref="char:EOLhyphen"/>mane Co<gap reason="illegible" resp="#APEX" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ulls.</item>
+                        <item>
+                           <hi>Politia,</hi> viz. The ciuill Magiſtrate and politique iuriſdiction; ſuch as free Cittizens, ruling by right, &amp;<gap reason="illegible" resp="#APEX" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> doe vſe.</item>
+                     </list>
+                  </item>
+                  <item>Imperfect gouern<g ref="char:EOLhyphen"/>ments are three.
+<list>
+                        <item>
+                           <hi>Tyrannis,</hi> where the King abtruding his commandements for all reaſon, vndeſeruedly afflicteth t<gap reason="illegible" resp="#APEX" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> Common-wealth.</item>
+                        <item>
+                           <hi>Oligarchia,</hi> is the vſurping of a few, ſuch as were ſome Senators, made by the common people at <hi>Rom<gap reason="illegible" resp="#APEX" extent="1 span">
+                                 <desc>〈…〉</desc>
+                              </gap>
+                           </hi> inclining vnto the wandring affections of the multitude, that they might merite the peoples fauour.</item>
+                        <item>
+                           <hi>Anarchia,</hi> is the iuriſdiction of the multitude, and of the miſcheeuous and raſh common people.</item>
+                     </list>
+                  </item>
+                  <item>When as heeretofore in <hi>Perſia</hi> (King <hi>Cambyſes</hi> being dead) the Kings Counſellors and Peeres, viz. <hi>Darius, Megabiz<gap reason="illegible" resp="#APEX" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> Otta<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>es,</hi> &amp;c. had convented themſelues in the Parliament houſe, to conſult of the ſafety of the Kingdome; as th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> were conſulting, a controuerſie befell touching three things eſpecially, (that is to ſay) the foreſaid three perfect go<g ref="char:EOLhyphen"/>uernments.</item>
+                  <item>The three perfect,
+<list>
+                        <item>
+                           <hi>Monarchia</hi> was preferred by <hi>Darius,</hi> through ſtrong and very good reaſons, as comming very neere vn<gap reason="illegible" resp="#APEX" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e d<gap reason="illegible" resp="#APEX" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e and heauenly Kingdome.</item>
+                        <item>
+                           <hi>Ar<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ſt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>cr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>tia,</hi> by moſt weighty arguments, and moſt pleaſant ſweeteneſſe of ſpeech, was preferred by <hi>M<gap reason="illegible" resp="#APEX" extent="1 span">
+                                 <desc>〈…〉</desc>
+                              </gap> g<gap reason="illegible" resp="#APEX" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>iz<gap reason="illegible" resp="#APEX" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>,</hi> (as very long flouriſhing)</item>
+                        <item>
+                           <hi>Pol<gap reason="illegible" resp="#APEX" extent="4 letters">
+                                 <desc>••••</desc>
+                              </gap>,</hi> 
+                           <gap reason="illegible" resp="#APEX" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ked and beſt pleaſed <hi>Ottanes.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Tyrannis,
+<list>
+                        <item>Theſe are reiected as moſt horrible, violent, and hurtfull to humane ſocietie; whereof proceeded th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> noble and excellent iudgement of <hi>Tully,</hi> concerning an ill gouerned Common-wealth.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>Oligarchia,</hi>
+                  </item>
+                  <item>
+                     <hi>An<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hia.</hi>
+                  </item>
+                  <item>He ſaith; that the tyranny of
+<list>
+                        <item>one, is dangerous;</item>
+                        <item>more, is worſe:</item>
+                        <item>the common people is the moſt horrible plague of a Common-wealth.</item>
+                     </list>
+                  </item>
+               </list>
+               <p>
+                  <pb facs="tcp:185158:5"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> antient gouernments and continuing many ages, alterations of times made manifeſt all the fore-ſaid perfect and im<g ref="char:EOLhyphen"/>perfect kindes of gouernments; that is to ſay, at <hi>Rome.</hi>
+               </p>
+               <list>
+                  <head>
+                     <hi>
+                        <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Rome,</hi>
+                  </head>
+                  <item>1. <hi>Monarchia,</hi> that is to ſay, Kings, <hi>Romu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>us, Num<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Pompilius, Ancus Martius, &amp;c.</hi> who raigned 243. yeares.</item>
+                  <item>2. <hi>Tyrannis,</hi> that is to ſay, Tyrants; <hi>Tarquinius, Sy<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>la, Caeſar, &amp;c.</hi>
+                  </item>
+                  <item>1. <hi>Ariſtocratia,</hi> the gouernment of the Nobles, when the Peeres and firſt Conſulls ruled, that is to ſay, <hi>
+                        <gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>nius Brutus, Tarquinius, Collatinus, Seruius Sulpitius, Manlius, Tulliu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>,</hi> who ruled 301. years. A<gap reason="illegible" resp="#APEX" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>r them ſucceeded alſo <hi>Furius Camil<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>us, Paulus Aemilius, Fabij, Me<gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>l<gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>, Scipiones, Cato<gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>s, Cicero, &amp;c.</hi> All mighty in warre and peace.</item>
+                  <item>2. <hi>Oligarchi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>,</hi> the vſurping of a few Senators; the diſcommodities whereof <hi>Rome</hi> felt, in that dangerous of<g ref="char:EOLhyphen"/>fice called <hi>Tri<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>mv<gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>atius;</hi> that is to ſay, the office of three men in like authority, and appeared moſt perni<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iouſly in that ambitious Protectorſhip, and Triumviracy of <hi>Caeſar, Craſſus,</hi> and <hi>Pompey.</hi> And laſt of all, in the triumviracy of <hi>Octauius, Antonius,</hi> and <hi>Lepidus.</hi> Whereupon <hi>Cicero</hi> ſaith:
+<list>
+                        <item>Let there be ſucceſſiue Magiſtrates, that
+<list>
+                              <item>one doe not <gap reason="illegible" resp="#APEX" extent="3 letters">
+                                    <desc>•••</desc>
+                                 </gap>ome proud with continuall gouernment; and hope of ad<gap reason="illegible" resp="#APEX" extent="3 letters">
+                                    <desc>•••</desc>
+                                 </gap>cement, comfort very many.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+                  <item>1. The pollicy of the ciuill Magiſtrate: who expelled the Decem<gap reason="illegible" resp="#APEX" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>, becauſe one of them, that is to ſay, <hi>Ap<g ref="char:EOLhyphen"/>pius Claudius,</hi> rauiſhed one <hi>
+                        <g ref="char:V">Ʋ</g>irginia,</hi> the daughter of a noble Citizen of <hi>Rome.</hi>
+                  </item>
+                  <item>2. <hi>Anarchia,</hi> the authority of the raging and moſt audacious Commons, who, when <hi>Antoniu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> was mooued and prouoked with anger, moſt wickedly and villan<gap reason="illegible" resp="#APEX" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>y murdered <hi>Cicero,</hi> and many ſtates of <hi>Rome:</hi> becauſe the Senate created <hi>Octauius Caeſar</hi> Conſull, and paſsing by, put backe <hi>Antonius</hi> ambitiouſly, deſiring the gouernment.</item>
+               </list>
+               <p>This popul<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſtate is vnſtaied, and very quickly goeth to ruine, and eaſily degenerateth into another ty<g ref="char:EOLhyphen"/>ranny. Whereupon commeth this ſaying:
+<q>Tyranny is next to the victory of the Commons.</q>
+               </p>
+               <p>Not o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ely the Romans, but alſo the Thebanes, Spartanes, and Atheniens, &amp;c. (floriſhing with great ſoueraig<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ties) haue knowne all theſe kindes of gouernment.</p>
+               <p>
+                  <pb facs="tcp:185158:6"/>
+It is to be noted, that a Common-wealth and the moſt perfect kindes of gouernments, are very ſeldome found abſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>lutely ſimple, but fitly compoſed amongſt themſelues. For a certaine mixture is voluntarily admitted amongſt them; y<gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſo mixt and tempred, that in a triple forme (as in a meruailous and ſweet harmoni<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>) one counſell ſignifieth as it were o<gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> minde. Yet the Common-wealth keepeth her name of the worthier part ruling the reſt.</p>
+               <p>It is alſo to be noted, that a Common-wealth very ſeldome is long found firme and ſtrong, if God protect it not. F<gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> it is reſembled to the fraile nature and vnconſtant minde of men (the foreſaide politique body being compact of the<gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> which are variably toſſed hither and thither: one while they are aduanced from ſmall to great: another while they a<gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> throwen downe from their greatneſſe into diuers perils of things. They are alſo endaungered, being toſſed too and <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in very great and innumerable perills, one while of ſickneſſe, another while of health: euen vnto the laſt period of li<gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Whereupon commeth this ſaying.
+<q>
+                     <l>As a Ship is ſubiect to waues, ſo the minde is to perils:</l>
+                     <l>Now enioyning good, and then readie to periſh through euils.</l>
+                  </q>
+               </p>
+               <p>In this ſo waſt a ſea of perils, Gods helpe is to be craued.</p>
+               <p>Alſo an excellent ſharpneſſe of the wit, and an admirable quickneſſe, and wiſedome, are requiſit in inuenting the b<gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> pollicies.
+<q>By too long delay, counſels waxe little worth.</q>
+               </p>
+               <p>There is no treaſure more commodious to a Prince and Common-wealth, then Counſellours excelling in vertu<gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> wiſedome, fidelitie, and valour.</p>
+               <p>The graue counſell of Kings maketh euery thing know<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, which he would have ſearched out.</p>
+               <p>A Prince ought to haue many eares, and many eyes<g ref="char:punc">▪</g>
+               </p>
+               <div type="section">
+                  <pb facs="tcp:185158:6"/>
+                  <head>Theee ſorts of men neceſſarie in a Common-wealth.</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>Magiſtrates, who may rule iuſtly: and theſe are by <hi>Plato</hi> called Golden</cell>
+                           <cell rows="3">men.</cell>
+                        </row>
+                        <row>
+                           <cell>Captaines and Souldiers: who may valiantly faithfully defend, and theſe are called Sil<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>er</cell>
+                        </row>
+                        <row>
+                           <cell>Artificers, who by diſcipli<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>es and profitable Arts may helpe, and theſe are called Braſon</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>A well ordered Common-wealth, conſiſteth of Religion and pollitique Lawes.</p>
+                  <p>A Common-wealth, a Citie, and a familie, will be alike eftſoones diſſolued, vnleſſe they be lincked together with the bands of Lawes.</p>
+                  <p>The next tempeſt bringeth ſhipwracke to that Co<g ref="char:cmbAbbrStroke">̄</g>mon-wealth, the eſtabliſhment of whoſe lawes is vnconſtant.</p>
+                  <p>
+                     <hi>Therefore it is meete that we paſſe to the Lawes.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Touching Lawes.</head>
+               <p>
+                  <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>cero de Lege,</hi> defineth a Lawe, to be a certaine rule proceeding from the will of God, perſwading that which is iuſt and good, and prohibiting euill.</p>
+               <p>
+                  <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eraclitus,</hi> telleth vs, that we ought to fight no leſſe for our lawes then for our citie walles, becauſe without walles our countrey may be ſafe, without lawes it cannot.</p>
+               <p>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s a body without a ſoule, ſo a citie without lawes cannot vſe her parts and ſinewes, blood and members.</p>
+               <list>
+                  <pb facs="tcp:185158:7"/>
+                  <head>It is ex<g ref="char:EOLhyphen"/>pedie<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </head>
+                  <item>
+                     <gap reason="illegible" resp="#APEX" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>bliſh <gap reason="illegible" resp="#APEX" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>re <gap reason="illegible" resp="#APEX" extent="1 line">
+                        <desc>〈1 line〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#APEX" extent="1 line">
+                        <desc>〈1 line〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#APEX" extent="1 line">
+                        <desc>〈1 line〉</desc>
+                     </gap>
+                     <list>
+                        <item>what things are moſt con<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>enient for euery common-wealth, and doe bring forth
+<list>
+                              <item>commodity, or pre<g ref="char:EOLhyphen"/>ſeruation, loſſe, or deſtruction.
+<list>
+                                    <item>whether they be profitable and prop<gap reason="illegible" resp="#APEX" extent="1 span">
+                                          <desc>〈…〉</desc>
+                                       </gap>
+                                       <list>
+                                          <item>this Commo<g ref="char:cmbAbbrStroke">̄</g>-wealth, <gap reason="illegible" resp="#APEX" extent="1 word">
+                                                <desc>〈◊〉</desc>
+                                             </gap> to a Common-wealt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                                <desc>•</desc>
+                                             </gap> of another kinde.</item>
+                                       </list>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                        <item>Ouermuch liberty vtterly ſubuerteth and extinguiſheth euery gouernment.</item>
+                        <item>Moderate liberty is profitable for euery one, and for the Common-wealth.</item>
+                        <item>what things in <gap reason="illegible" resp="#APEX" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>mes paſt brought
+<list>
+                              <item>commodity,
+<list>
+                                    <item>to our, or
+<list>
+                                          <item>gouernment.</item>
+                                       </list>
+                                    </item>
+                                    <item>to forraigne</item>
+                                 </list>
+                              </item>
+                              <item>diſcommodity,</item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+                  <item>To di<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>anull
+<list>
+                        <item>wholly, when they are repugnant to
+<list>
+                              <item>Religion,
+<list>
+                                    <item>Let that bee the principall regard which maketh for Re<gap reason="illegible" resp="#APEX" extent="2 letters">
+                                          <desc>••</desc>
+                                       </gap>
+                                       <g ref="char:EOLhyphen"/>gion.</item>
+                                 </list>
+                              </item>
+                              <item>pollicy.</item>
+                           </list>
+                        </item>
+                        <item>in part, when ſome things are to bee changed
+<list>
+                              <item>If any thing muſt be changed, it muſt be changed by little and little, which b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap> little and little hath increaſed.</item>
+                              <item>Deſtruction is very neere to ſuddaine alteration.</item>
+                              <item>It is a point of wiſedome, in difficult matters, freely to grant ſomewhat to th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap> diſpoſition of the people.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+                  <item>To interprete. That is to be refer<g ref="char:EOLhyphen"/>red to the Interpreters of the law.
+<list>
+                        <item>In expounding the laws, ſanctity and equity are to be regarde<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Leſt they make white of blacke, and blacke of white.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <pb facs="tcp:185158:7"/>
+                  <label>To obſrue lawes, the care wher<g ref="char:EOLhyphen"/>of proper<g ref="char:EOLhyphen"/>ly belon<g ref="char:EOLhyphen"/>geth to</label>
+                  <item>
+                     <list>
+                        <item>Princeſſe,</item>
+                        <item>Counſel<g ref="char:EOLhyphen"/>lours,
+<list>
+                              <item>in whom are requi<g ref="char:EOLhyphen"/>red
+<list>
+                                    <item>vnderſtan<g ref="char:EOLhyphen"/>ding, to know
+<list>
+                                          <item>what is iuſt, and to be done:</item>
+                                          <item>what is euill, and to be repreſſed:</item>
+                                          <item>who are worthy
+<list>
+                                                <item>reward,
+<list>
+                                                      <item>according to the
+<list>
+                                                            <item>quantitie
+<list>
+                                                                  <item>of the fact.</item>
+                                                               </list>
+                                                            </item>
+                                                            <item>qualitie</item>
+                                                         </list>
+                                                      </item>
+                                                   </list>
+                                                </item>
+                                                <item>puniſhme<g ref="char:cmbAbbrStroke">̄</g>t;</item>
+                                             </list>
+                                          </item>
+                                       </list>
+                                    </item>
+                                    <item>Authoritie; to
+<list>
+                                          <item>puniſh the guilty and the wicked.</item>
+                                          <item>defend the godly, and the good.</item>
+                                          <item>make famous the worthy, by titles and due promotions.</item>
+                                       </list>
+                                    </item>
+                                    <item>He receiueth a benefit, who giueth to him that deſerued it.</item>
+                                    <item>Let vertue be the chiefeſt merit for promotions.</item>
+                                    <item>The Common-wealths ſafetie, is preſerued by reward and puniſhme<g ref="char:cmbAbbrStroke">̄</g>t.</item>
+                                    <item>There is nothing more Princely, than to giue due teſtimony to vertue.</item>
+                                    <item>Let haynous offences be puniſhed with cruell puniſhments.</item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                        <item>Iudges:</item>
+                        <item>Magiſtrates in euery countire and citie:
+<list>
+                              <item>of whom are requi<g ref="char:EOLhyphen"/>red
+<list>
+                                    <item>dilige<g ref="char:cmbAbbrStroke">̄</g>ce,
+<list>
+                                          <item>which ought to be fenced with
+<list>
+                                                <item>Integrity againſt
+<list>
+                                                      <item>anger,
+<list>
+                                                            <item>we do not vſe trobled water, vntill it ſtand ſtill: much leſſe muſt wee vſe a troubled mind vntil it come to it ſelfe. <hi>Socrates:</hi>
+                                                            </item>
+                                                         </list>
+                                                      </item>
+                                                      <item>gifts,</item>
+                                                      <item>fauour,</item>
+                                                      <item>interceſ<g ref="char:EOLhyphen"/>ceſſions</item>
+                                                   </list>
+                                                </item>
+                                                <item>Conſtancy and fortitude againſt feare of
+<list>
+                                                      <item>diſpleaſure.</item>
+                                                      <item>danger.</item>
+                                                   </list>
+                                                </item>
+                                             </list>
+                                          </item>
+                                          <item>care<g ref="char:punc">▪</g>
+                                          </item>
+                                       </list>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <div type="section">
+                  <pb facs="tcp:185158:8"/>
+                  <head>There muſt heed be taken, leſt the reſpeſt of priuate matters, doe hurt and harme publique affaires.</head>
+                  <p>An vncorrupted Law is the keeper of equitie, and the miſtreſſe of truth:</p>
+                  <p>She hath no affections, but ruleth cauſes by right.</p>
+                  <p>The Law, whereunto a penaltie is not ioyned, &amp; penaltie, which hope of pardon enſueth, are altogether vnprofi<gap reason="illegible" resp="#APEX" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>
+                  </p>
+                  <p>Right often paſſeth to wrong, if the indifferent Magiſtrate doe not prohibite it.</p>
+                  <p>Rulers and Magiſtrates offen<g ref="char:EOLhyphen"/>ding, hurt more by their
+<q>examples, then by their offences.</q>
+                  </p>
+                  <p>Where Iudges and Magiſtrates doe well and iuſtly execute their offices for their owne dignitie, and the eſtimation <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> their charge, there it muſt needes be, that the ſame Common-wealth do floriſh, and flow with all good things; the peop<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> applauding and prayſing the excellent beautie of vertue ſhining in their ſuperiours, and ſet before their eyes to imitate <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <hi>Cicero.</hi>
+                  </p>
+                  <p>The Law, equitie, execution of Lawes, the dexteritie of the Magiſtrate, are the patrimony of a Common-wealth.</p>
+                  <p>Where the Common-wealth reuerenceth and adoreth the Law, there is all happineſſe.</p>
+                  <p>
+                     <list>
+                        <item>Where the Lawe is in ſubiection to the Common-wealth, there is all impietie.</item>
+                        <item>Where the Law is caſt off by the Common-wealth, there is all confuſion and miſchiefe.</item>
+                     </list> 
+                     <hi>Cicero.</hi>
+                  </p>
+                  <p>It is very hurtfull vnto a Common-wealth, if holy and iuſt Lawes be not kept firme and mutable; and if fooliſh Aud<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>tors doe applaude euery man (through deſire of noueltie, and oſtentation of wit and eloquence) ouerthrowing tho<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> things which are profitable, neceſſary, and well ordained for the good of all men.</p>
+                  <p>Let not perſwaſion beare downe that thing which action hath con<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uted.</p>
+                  <p>Let no Tobaccho-ſellers be neere a Common-wealth.</p>
+                  <p>Let not the more noble, but the better iudgement obtaine the victorie.</p>
+                  <p>Many controuerſies ariſe of a Law containing many words.</p>
+                  <p>
+                     <hi>Architas</hi> Commaundeth, that in eſtabliſhing lawes, thoſe things be firſt confirmed which belong to God.</p>
+                  <p>Next, thoſe things which be honeſt and commendable.</p>
+                  <p>After, things profitable.
+<q>He ſaith alſo, that it is meete (next after vertue) that the Lawes be contained in mens minds, rather than in bookes.</q>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb facs="tcp:185158:8"/>
+                  <head>Of the foure Cardinall vertues in generall, and after of Politique.</head>
+                  <p>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y the Cardinall vertues the ſoule is rectified in her power.</p>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>Prudence.</cell>
+                           <cell rows="3">rectifieth</cell>
+                           <cell>the rationall power.</cell>
+                        </row>
+                        <row>
+                           <cell>Fortitude,</cell>
+                           <cell>the power of anger.</cell>
+                        </row>
+                        <row>
+                           <cell>Temperance,</cell>
+                           <cell>the power of concupiſcence.</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>But Iuſtice rectifieth all the powers, and containeth in it ſelf all the vertues, whereupon commeth the ſaying;</p>
+               </div>
+               <div type="section">
+                  <head>Iuſtice in it ſelfe comprehendeth all vertues.</head>
+                  <p>Iuſtice is is not onely a ſpeciall vertue, but alſo a generall; containing the direction of the whole minde towards God <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd our neighbour: and is called the rectifier of the will.</p>
+                  <p>By the Cardinall vertues a man is inſtructed in all good things, and is armed againſt vices: as <hi>Auguſtine</hi> ſaith.</p>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>Prudence</cell>
+                           <cell rows="4">teacheth to</cell>
+                           <cell>Chooſe.</cell>
+                           <cell>Prudence</cell>
+                           <cell rows="4">conſiſteth in</cell>
+                           <cell>preuenting deceits.</cell>
+                        </row>
+                        <row>
+                           <cell>Fortitude</cell>
+                           <cell>Endure.</cell>
+                           <cell>Fortitude</cell>
+                           <cell>enduring ſorrowes.</cell>
+                        </row>
+                        <row>
+                           <cell>Temperance</cell>
+                           <cell>Vſe.</cell>
+                           <cell>Temperance</cell>
+                           <cell>brideling wicked pleaſures.</cell>
+                        </row>
+                        <row>
+                           <cell>Iuſtice</cell>
+                           <cell>Diſtribute.</cell>
+                           <cell>Iuſtice</cell>
+                           <cell>relieuing miſeries.</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <list>
+                     <label>It is the propertie of</label>
+                     <item>
+                        <list>
+                           <item>Prudence
+<list>
+                                 <item>to knowe what may be.</item>
+                                 <item>to be willing to doe moſt.</item>
+                                 <item>not to preſume of that which cannot be.</item>
+                                 <item>to deſire equitie in all things.</item>
+                              </list>
+                           </item>
+                           <item>Fortitude.</item>
+                           <item>Temperance</item>
+                           <item>Iuſtice</item>
+                        </list>
+                     </item>
+                  </list>
+                  <p>
+                     <pb facs="tcp:185158:9"/>
+Theſe foure Vertues are called Cardinall: becauſe as the doore is turned vpon the hinge, ſo on theſe, mans life is tu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ned and ruled.</p>
+                  <p>They are alſo ſometimes called Politike; becauſe by theſe a ciuill life is ordered, and they polliſh and adorne a ma<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and rule the life as touching outward things, and as farre forth as they fight againſt vices.</p>
+                  <p>They are alſo called Humane; becauſe they are gotten by mans ſtudy, except they be infuſed by God.</p>
+                  <p>They are alſo called Conſuetudinall; becauſe they are gotten not by one action, but by cuſtome.</p>
+                  <p>Theſe Vertues haue their degrees of perfection, according to which they are in them which beginne one way, an<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ther way in them which profite, and a third way in them which are perfect.</p>
+                  <p>To conclude, euen as God is a diuine ſampler of all things; ſo theſe patternes of vertues abide in him, and flow vnto from the fountaine of his diuinitie, whereof they are called Exemplares.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Of Prudence.</head>
+               <p>Prudence, in as much as it is a politike vertue, is called the Rule of Reaſon, enlightning our mindes: which conſid<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>reth what ſhe doth: ſhe determineth without error: ſhe willeth or doth no vnſeemely thing. Whence commeth the ſayin<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </p>
+               <lg>
+                  <l>Amend what is paſt, rule what is preſent, ſee what is to come:</l>
+                  <l>For a wiſe man is accuſtomed to obſerue theſe things.</l>
+                  <l>Conſider the things preſent, and fore ſee that which is to come.</l>
+               </lg>
+               <p>Prudence as it is a vertue of a well inſtructed minde, is to know onely diuine things.</p>
+               <p>Prudence Exemplare, is the diuine vnderſtanding, whereunto all things are vncouered and open.</p>
+               <list>
+                  <label>The parts of Prudence are three</label>
+                  <item>
+                     <list>
+                        <item>Vnderſtanding,</item>
+                        <item>Prouidence,</item>
+                        <item>Memory.</item>
+                     </list>
+                  </item>
+               </list>
+               <p>Vnderſtanding, is that by which the minde perceiueth the things which be.</p>
+               <p>Prouidence, is a vertue (as <hi>Cecero</hi> ſaith) by which ſome future thing is ſeene before it be done.</p>
+               <p>Memory, is that by which any one remembreth the things which haue beene.</p>
+               <p>
+                  <pb facs="tcp:185158:9"/>
+The office of Prudence, is to ſuſtaine other vertues in their actions, according to all the parts of man.</p>
+               <list>
+                  <label>Morall Philoſophy; which are</label>
+                  <item>
+                     <list>
+                        <item>Ethicke,</item>
+                        <item>Oeconomicke,
+<list>
+                              <item>1. Ordereth the manners, as touchig man,</item>
+                              <item>2. Setteth a family in order,</item>
+                              <item>3. Ruleth Cities and Kingdomes.</item>
+                           </list>
+                        </item>
+                        <item>Politike.</item>
+                        <item>Prudence is triple.</item>
+                     </list>
+                  </item>
+               </list>
+               <p n="1">1. The firſt of the heart: and this is in diſpoſing things preſent, in remembring things paſt, &amp; fore-ſeeing things to come.</p>
+               <p>
+                  <hi>Deut. 32.</hi> Would God men would be wiſe: that is to ſay, by things paſt: and would vnderſtand, that is to ſay, things preſent: and would fore-ſee the laſt things: that is to ſay, things to come.</p>
+               <p n="2">2. The ſecond is of the mouth: and this is in gouernment of our ſpeeches.</p>
+               <p>
+                  <hi>Prou. 10.</hi> He is moſt wi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, who can rule his lips.</p>
+               <p n="3">The third is of worke: and this conſiſteth in eſchewing the euill, and chooſing of good.</p>
+               <p>
+                  <hi>Pſal. 33.</hi> Decline from euill, and doe good.</p>
+               <list>
+                  <head>We muſt note, that ther is worldly, humane, &amp; heauenly wiſedome.</head>
+                  <item>1. The firſt, is in getting temporall things.</item>
+                  <item>2. The ſecond, in commodity of the fleſh.</item>
+                  <item>3. The third, in diuine ſeruice.</item>
+               </list>
+               <p>The office of Prudence is, to direct the actions of other vertues, and to eſteeme and ordaine euery thing according to vertue. <hi>Seneca.</hi>
+               </p>
+               <p>To conclude, as an empty ſhip is to be fenced and furniſhed with conuenient tacklings: ſo a life, with the effect of Pru<g ref="char:EOLhyphen"/>dence. <hi>Socrates.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Of Fortitude.</head>
+               <p>Fortitude, in as much as it is a politike vertue, is to beare a valiant minde, to feare nothing, but diſhoneſt things: manfully to endure aduerſity, or proſperity.</p>
+               <p>Fortitude of a purged minde is, to be ignorant of paſſions, not to feare, that it knoweth not to be angry, and deſireth no diſhoneſt thing.</p>
+               <p>Exemplare fortitude is, to be vnchangeable; becauſe it is alwaies the ſame, and is not at any time changed.</p>
+               <list>
+                  <pb facs="tcp:185158:10"/>
+                  <label>The parts of forti<g ref="char:EOLhyphen"/>tude are foure,</label>
+                  <item>
+                     <list>
+                        <item>Magnificence,</item>
+                        <item>Confidence,</item>
+                        <item>Patience,</item>
+                        <item>Perſeuerance,</item>
+                     </list>
+                  </item>
+               </list>
+               <p>Magnificence is the cogitation and exployting of great and high matters, with a certaine honorable purpoſe of mind Confidence is a vertue, whereby the minde it ſelfe in great and honeſt matters hath repoſed much in it ſelf, with a certain hope of truſt.</p>
+               <p>Patience is a voluntary and continuall ſufferance of hard and difficult things, for honeſtie and commodities ſake.</p>
+               <p>Perſeuerance is a vertue ſure and permanent in a well aduiſed purpoſe.</p>
+               <list>
+                  <item>There are many effects of Fortitude
+<list>
+                        <item>1. it triumpheth ouer ones enemies, <hi>Mark</hi> 5. and he a moſt valiant man.</item>
+                        <item>2. it keepeth a mans goods: <hi>Luke.</hi> 11. when a ſtrong man armed, &amp;c.</item>
+                        <item>3. it enricheth,—<hi>Prou.</hi> 10, the hand of the ſtrong get<gap reason="illegible" resp="#APEX" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>th riches.</item>
+                        <item>4. it adorneth,—<hi>Prou.</hi> 31. fortitude and comelineſſe his garment.</item>
+                     </list>
+                  </item>
+                  <item>Fortitude con<g ref="char:EOLhyphen"/>ſiſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th in fiue things,
+<table>
+                        <row>
+                           <cell>In aduenturing vpon hard things:</cell>
+                           <cell rows="5">Many things help fortitude,</cell>
+                           <cell>1. The exhortation of wiſe men.</cell>
+                        </row>
+                        <row>
+                           <cell>In deſpiſing earthly things:</cell>
+                           <cell>2. The example of the ſtrong.</cell>
+                        </row>
+                        <row>
+                           <cell>In ſuffering tribulation:</cell>
+                           <cell>3. Excerciſe in fight.</cell>
+                        </row>
+                        <row>
+                           <cell>In reſiſting <gap reason="illegible" resp="#APEX" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>emptations:</cell>
+                           <cell>4. Hope of reward.</cell>
+                        </row>
+                        <row>
+                           <cell>In fighting againſt vices.</cell>
+                           <cell>5. The helpe of prayer.</cell>
+                        </row>
+                     </table>
+                  </item>
+               </list>
+               <p>As Harts haue great Hornes in vaine, ſeeing they want courage: ſo it is not ſufficient to be ſtrong and to be of pow<g ref="char:EOLhyphen"/>er in other things, vnleſſe Fortitude be adioyned. <hi>Plutarch.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Of Temperance.</head>
+               <p>Politicke Temperance (according to <hi>Macrobius)</hi> is, to deſire nothing to be repented, in nothing to exceede the rule <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> modeſtie, to tame deſire vnder the yoake of reaſon. Whence commeth the ſaying:
+<q>
+                     <l>Wilt thou be crowned? wilt thou be filled with delicates?</l>
+                     <l>Haue this ſhort ſaying alwayes before thee; <hi>Be ſober.</hi>
+                     </l>
+                  </q>
+               </p>
+               <p>Temperance of a purged minde, is, not onely to repreſſe, but quite to forget earthly deſires.</p>
+               <p>Temperance as it is an Exemplar vertue, is, a certaine turning about towards it ſelfe with continuall diligence.</p>
+               <list>
+                  <pb facs="tcp:185158:10"/>
+                  <label>There are three parts of Temperance,</label>
+                  <item>
+                     <list>
+                        <item>Continence.</item>
+                        <item>Clemencie.</item>
+                        <item>Modeſtie.</item>
+                     </list>
+                  </item>
+               </list>
+               <p>Continence (according to <hi>Tully)</hi> is a vertue, by which the deſire is ruled by the gouernment of counſell.</p>
+               <p>Clemencie is a vertue, whereby the motions of the mind, being ſtirred with raſhneſſe, to the hate of ſome one, are ſtaied by gentleneſſe and pleaſantneſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</p>
+               <p>Modeſtie is a vertue, by which an honeſt ſhamefaſtneſſe getteth an honourable and durable eſtimation.</p>
+               <list>
+                  <label>There are againe three formes of Temperance,</label>
+                  <item>
+                     <list>
+                        <item>Sobrietie,</item>
+                        <item>Abſtinence,</item>
+                        <item>Modeſtie.</item>
+                     </list>
+                  </item>
+               </list>
+               <p>The firſt conſiſteth in taſt: which Sobrietie moderateth.</p>
+               <p>The ſecond conſiſteth in touching, wherein Abſtinence and Chaſtitie put a meane.</p>
+               <p>The third conſiſteth in words and deeds. But a deede, as it is heere taken, doth appertaine to three ſences<g ref="char:punc">▪</g> about their propper matters,</p>
+               <list>
+                  <item>Seeing,</item>
+                  <item>Hearing,</item>
+                  <item>Smelling,</item>
+               </list>
+               <p>This deede pertaineth alſo to touching, not onely in things vſing the act of generation, but alſo pertaineth to others, whoſe inſtruments are hands to ſmite and take, and feete to walke.</p>
+               <div type="section">
+                  <head>In all theſe, Modeſtie ſetteth downe a meane.</head>
+                  <p>The dignitie of Temperance is ſeene in theſe two things;</p>
+                  <p n="1">1. Firſt it preſerueth Nature, becauſe Nature is delighted in meane things, and through extreames is corrupted.
+<q>
+                        <l>Keepe a meane, if thou wilt not looſe the end.</l>
+                        <l>Bleſſed men haue kept a meane, ſaith <hi>Bernard.</hi>
+                        </l>
+                     </q>
+                  </p>
+                  <p n="2">2. It adorneth the minde. For as in Natures the forme is more comely, than the matter: ſo alſo in manners, the manner, is more commended than the action it ſelfe. Whence commeth that olde common ſaying; We merit not by Verbes, but by Aduerbes: that is to ſay, not in that we ſpeake or doe any thing, but in that we ſpeake well, or doe well.</p>
+                  <p>It is manifeſt by an example in that Widow, who, offering two mites, is more commended by our Lord, then they who caſt in great gifts into the Treaſury.</p>
+                  <p>
+                     <pb facs="tcp:185158:11"/>
+Temprance is compared vnto the Sunne, which is the midſt of the <hi>Planets,</hi> and moſt glorious amongſt them all.</p>
+                  <p>
+                     <hi>Socrates</hi> ſaid, that a temperate habite of the minde, and contented with it owne, was like a ſhort and pleaſant life. Fo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> hath much peace, and little labour.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Of Iuſtice.</head>
+               <p>Now time requireth that we enter into the holy cloſets of Polliticke Iuſtice: whoſe propertie is to keepe to euery <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his owne: where alſo a reſpect of a iuſt and honeſt fact is buſied, with a religious obſeruation: and nothing is termed p<gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>fitable which may ſeeme diſhoneſt.</p>
+               <p>Iuſtice of a pure mind is, ſo to be with that high mind, that it keepeth with it a perpetuall league by imitation.</p>
+               <p>It is a propertie of Exemplar Iuſtice, by an euer during Lawe, not to be turned from the perpetuall continuation of worke.</p>
+               <p>There are ſix parts of Iuſtice. 1. Religion, 2. Pietie, 3. Thankes: 4. Reuenge, 5. Obeyſance 6. Truth. To theſe mercy ſeemeth to be fitly ioyned, being a vertue moſt accepta<gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to God; which will not onely pittie, but alſo ſuccour the aduerſiti<gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> another.</p>
+               <p n="1">1. Religion is a vertue of a certaine ſuperiour nature, which men call diuine, and bringeth with it care and ceremony.</p>
+               <p n="2">2. Pietie is, when dutie and diligent reuerence is giuen to them who are linked to vs in blood and good will.</p>
+               <p n="3">3. Thankes is that, wherein are contained the remembrance and deſire of requiting the amitie and offices of another.</p>
+               <p n="4">4. Reuenge is a vertue, whereby violence and iniurie and euery obſcure thing, is repelled by defending and reuenging<g ref="char:punc">▪</g>
+               </p>
+               <p n="5">5. Obeyſance is a vertue, whereby men excelling in ſome worthineſſe, are vouchſafed with ſome reuerence and hono<gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+               <p n="6">6. Veritie is a vertue, whereby thoſe things are ſaid to be changed, which haue beene, are, or ſhall be hereafter.</p>
+               <p>Heere is to be noted, that Iuſtice is not ſo much a ſpeciall vertue, as a generall, as is aboueſaid in the Cardinall <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tues.</p>
+               <div type="section">
+                  <head>But Iuſtice may be peruerted three wayes.</head>
+                  <p n="1">1. Through loue of the perſon, or of money. <hi>Iſa.</hi> 5. Woe to you who iuſtifie the vngodly, for a reward.</p>
+                  <p n="2">2. Through feare, <hi>Mat.</hi> 10. Feare not them who kill the body, &amp;c.</p>
+                  <p n="3">3. Through enuie. <hi>Marke.</hi> 15. Knowing that for enuy they had betrayed him.</p>
+               </div>
+               <div type="section">
+                  <head>Many things draw vs to Iuſtice: that is to ſay;</head>
+                  <p>The Scripture, <hi>Eccleſ.</hi> 4. Euen vnto death ſtriue for Iuſtice.</p>
+                  <p>Our naturall inclination. <hi>Auguſtine.</hi> Naturally Iuſtice is in the heart of man</p>
+                  <p>
+                     <pb facs="tcp:185158:11"/>
+Alſo brute beaſts admoniſh vs to Iuſtice by their agreement and innocencie.</p>
+               </div>
+               <div type="section">
+                  <head>There are many effects and bleſſings of Iuſtice.</head>
+                  <p>
+                     <hi>Mat.</hi> 5. Bleſſed are they who hunger and thirſt after Iuſtice.</p>
+                  <p>
+                     <hi>
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>et.</hi> 3. Bleſſed are ye if you ſuffer any thing for Iuſtice.</p>
+                  <p>
+                     <hi>
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ccle.</hi> 4. Who worketh Iuſtice, ſhall be exalted, and is bleſſed.</p>
+                  <p>
+                     <hi>
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r<gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>.</hi> 10. Iuſtice deliuereth from eternall death.</p>
+                  <p>It rewardeth. <hi>Pſal.</hi> 17. My lord will reward me according to my Iuſtice.</p>
+                  <p>It crowneth. <hi>Tim.</hi> 2. The crowne of Iuſtice is laide vp for me.</p>
+                  <p>To conclude, Iuſtice is called the vpholder of the Common-wealth, the life and Queene of all vertues.</p>
+                  <p>The Sunne is moſt pleaſant to them who can behold it: ſo alſo is a Prince to them who loue Iuſtice.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Concerning VVarre.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell rows="3">
+                           <hi>Of Warre.</hi>
+                        </cell>
+                        <cell rows="3">Warre is</cell>
+                        <cell>offenſiue,</cell>
+                     </row>
+                     <row>
+                        <cell>or</cell>
+                     </row>
+                     <row>
+                        <cell>defenſiue.</cell>
+                     </row>
+                  </table>
+               </p>
+               <list>
+                  <label>In Offen<g ref="char:EOLhyphen"/>ſiue warre the conſi<g ref="char:EOLhyphen"/>deration is either</label>
+                  <item>
+                     <list>
+                        <item>Generall: where we ought to reſpect
+<list>
+                              <item>the kind. For it is either
+<list>
+                                    <item>Neceſſary,</item>
+                                    <item>or not</item>
+                                    <item>Neceſſary.</item>
+                                 </list>
+                              </item>
+                              <item>the moment. For it is either
+<list>
+                                    <item>daungerous,</item>
+                                    <item>or not</item>
+                                    <item>daungerous.</item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                        <item>Particular. See after<g ref="char:EOLhyphen"/>wards.
+<list>
+                              <item>Heere alſo the
+<table>
+                                    <row>
+                                       <cell>Places,</cell>
+                                       <cell rows="3">are to be conſidered.</cell>
+                                    </row>
+                                    <row>
+                                       <cell>Meanes and</cell>
+                                    </row>
+                                    <row>
+                                       <cell>Times</cell>
+                                    </row>
+                                 </table>
+                              </item>
+                              <item>The rules.
+<list>
+                                    <item>To knowe the fitteſt time, and to take hold thereof, an vnknown commoditie,</item>
+                                    <item>Strength without aduiſe, ouerthroweth it ſelfe with it owne waight.</item>
+                                    <item>Strength is ſmall worth abroad, vnleſſe there be wiſedome at home.</item>
+                                    <item>Let no man through confidence of his owne wiſedome or ſtrength, vndertake daungerous and vnneceſſary things.</item>
+                                    <item>
+                                       <pb facs="tcp:185158:12"/>
+For God in a ſuddaine moment can ouerthrow the greateſt glory of things.</item>
+                                    <item>The ſtory of <hi>Craeſus</hi> amongſt others, is famous, who through error of iudgement and confidence of his owne power, hee raſhly ſtirring vnneceſſary Warre a<g ref="char:EOLhyphen"/>gainſt <hi>Cyrus,</hi> procured moſt greeuous calamities to himſelf and his whole king<g ref="char:EOLhyphen"/>dome. Whence commeth the verſe.
+<list>
+                                          <item>All worldly things hang at a ſlender threed.</item>
+                                          <item>And they fall by ſudden miſchance, who haue beene mightie.</item>
+                                          <item>And he is ſuddenly a beggar, who euen now was exceeding rich.</item>
+                                       </list>
+                                    </item>
+                                    <item>Things preſent are to be retained; and things certaine are not raſhly, and for vn<g ref="char:EOLhyphen"/>certaine and vnknowen things, to be hazarded.
+<list>
+                                          <item>Do nothing but what is needfull to be done.</item>
+                                          <item>And one rule which God hath giuen, is to be followed.</item>
+                                          <item>A Prince muſt fight ſometime, not becauſe he will, but becauſe his enemies conſtraineth.</item>
+                                       </list>
+                                    </item>
+                                    <item>It is alſo well knowen by the Law of Nations, that Warre may bee repelled by Warre.</item>
+                                    <item>Alſo delaying of future Warre, is for the moſt part a great loſſe and ſhame to a Prince. <hi>Liui<gap reason="illegible" resp="#APEX" extent="2 letters">
+                                             <desc>••</desc>
+                                          </gap>.</hi>
+                                    </item>
+                                    <item>It is alſo the dutie of a wiſe man to try all things by aduice before he fight.</item>
+                                    <item>And if warre cannot be auoided, becauſe all are in daunger, he muſt wiſely attempt it, and valiantly repell it; and a diligent preparation is to be thought vpon, and vſed in time of peace.</item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                     </list>
+                     <list>
+                        <pb facs="tcp:185158:12"/>
+                        <label>In a gene<g ref="char:EOLhyphen"/>rall conſi<g ref="char:EOLhyphen"/>deration it muſt be regarded</label>
+                        <item>
+                           <list>
+                              <item>What Captaines are to be
+<list>
+                                    <item>made,</item>
+                                    <item>remoued.</item>
+                                 </list>
+                              </item>
+                              <item>what ſtore of
+<list>
+                                    <item>foode and victuals
+<list>
+                                          <item>is neceſſary: whence they may be had
+<list>
+                                                <item>certainly,</item>
+                                                <item>verily, ſpeedily.</item>
+                                             </list>
+                                          </item>
+                                       </list>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>How great an armie our ene<g ref="char:EOLhyphen"/>mies or we
+<list>
+                                    <item>in quantitie
+<list>
+                                          <item>haue,</item>
+                                          <item>are able
+<list>
+                                                <item>to procure
+<list>
+                                                      <item>at home,</item>
+                                                      <item>abroad,</item>
+                                                   </list>
+                                                </item>
+                                                <item>to abſtaine
+<list>
+                                                      <item>now at the preſent time,</item>
+                                                      <item>in time to come.</item>
+                                                   </list>
+                                                </item>
+                                             </list>
+                                          </item>
+                                          <item>in qualitie
+<list>
+                                                <item>by Sea, that is to ſay, Souldiers on Sea.</item>
+                                                <item>by land
+<table>
+                                                      <row>
+                                                         <cell>footemen,</cell>
+                                                         <cell rows="2">what ſorts of both.</cell>
+                                                      </row>
+                                                      <row>
+                                                         <cell>horſemen,</cell>
+                                                      </row>
+                                                   </table>
+                                                </item>
+                                             </list>
+                                          </item>
+                                       </list>
+                                    </item>
+                                    <item>what furniture of warre is neceſſarie, that is to ſay,
+<list>
+                                          <item>Armour,
+<list>
+                                                <item>weapons,</item>
+                                                <item>Armour, or complete Armour.</item>
+                                             </list>
+                                          </item>
+                                          <item>
+                                             <table>
+                                                <row>
+                                                   <cell>Horſes,</cell>
+                                                   <cell>Gunnes,</cell>
+                                                </row>
+                                                <row>
+                                                   <cell>Engines,</cell>
+                                                   <cell>Iron bullets,</cell>
+                                                </row>
+                                                <row>
+                                                   <cell>Cariots,</cell>
+                                                   <cell>wild fire pouder,</cell>
+                                                </row>
+                                                <row>
+                                                   <cell>Carriages,</cell>
+                                                   <cell>and other engines.</cell>
+                                                </row>
+                                             </table>
+                                          </item>
+                                       </list>
+                                    </item>
+                                    <item>What places are fit to skirmiſh: There are three ſinewes of Warre,
+<list>
+                                          <item>Gold,</item>
+                                          <item>the hand,</item>
+                                          <item>yron.</item>
+                                       </list>
+                                    </item>
+                                    <item>What times are fit and conuenient.</item>
+                                    <item>
+                                       <table>
+                                          <row>
+                                             <cell>Horſemen and footemen, armed men are called the hands and legs of the Captaine.</cell>
+                                             <cell rows="2">
+                                                <hi>Plutarch.</hi>
+                                             </cell>
+                                          </row>
+                                          <row>
+                                             <cell>But a Captaine wanting money, is ſaid to haue no bellie.—</cell>
+                                          </row>
+                                       </table>
+                                    </item>
+                                    <item>Souldiers are alſo to be kept in obedience, and they may the better be gouerned, their wages is to be payed them in due time.</item>
+                                 </list>
+                              </item>
+                           </list>
+                           <list>
+                              <pb facs="tcp:185158:13"/>
+                              <head>Particu<g ref="char:EOLhyphen"/>lar conſi<g ref="char:EOLhyphen"/>deration reſteth in the Cap<g ref="char:EOLhyphen"/>taines wiſ<g ref="char:EOLhyphen"/>dome &amp; experie<g ref="char:cmbAbbrStroke">̄</g>ce in Warre, who ought to marke &amp; foreſee</head>
+                              <item>Treaſons, ſecret engines, priuie whiſperings, treacherie, ſtrangemes, &amp;c.</item>
+                              <item>The way of the ſouldiers going forth to battaile,</item>
+                              <item>Places which are indifferent and fit
+<list>
+                                    <item>to fight,</item>
+                                    <item>to skirmiſh,
+<list>
+                                          <item>The opportunitie of the place oft times more auay<g ref="char:EOLhyphen"/>leth, than valour. <hi>Caeſar.</hi>
+                                          </item>
+                                       </list>
+                                    </item>
+                                    <item>to winter in.</item>
+                                 </list>
+                              </item>
+                              <item>Conuenient places to
+<list>
+                                    <item>enter into ſight,
+<list>
+                                          <item>by night, or by day.</item>
+                                          <item>forthwith, or at ſome other time.</item>
+                                       </list>
+                                    </item>
+                                    <item>leaue off their fight,</item>
+                                    <item>goe forward,</item>
+                                    <item>retire,</item>
+                                    <item>make a ſtand,</item>
+                                    <item>ſpare their enemies being ſubdued, or to exerciſe crueltie againſt them.</item>
+                                 </list>
+                              </item>
+                              <item>They who with very ſmall intreatie do pardon them which are ouercome, do for this cauſe, allure more to try the fortune of Warre againſt them. But there appeared very manifeſtly in <hi>Pauſanias,</hi> D<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>k<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap> of the Spar<g ref="char:EOLhyphen"/>tanes, not onely warlike vertue and fortitude, but alſo modeſtie, and the honour of chaſt ſhamefaſtneſſe, Who, after the victorie gotten at <hi>Platea,</hi> conquered himſelfe with a moſt glorious victory, and abſtayning from <hi>Coa,</hi> being taken Priſoner defended her. And with great prayſe of moderation and humanitie, he raged not againſt the dead carkaſſes of his enemies being ſlaine, but ſaid, it ſuffiſed him, if that doing and ſpeaking iuſt things, he could pleaſe his <hi>Spartanes.</hi>
+                              </item>
+                              <item>On what ſide he is to giue the onſet
+<list>
+                                    <item>before,</item>
+                                    <item>behind,</item>
+                                    <item>on both the wings of the Armie, &amp;c.</item>
+                                 </list>
+                              </item>
+                              <item>How Warre is to be made, either by
+<list>
+                                    <item>field battailes, in open field; or ſubtilly, and by Ambuſhes.</item>
+                                    <item>fences of Bulwarks; or by ſuddaine iſſuing out of their Tents and Townes.</item>
+                                    <item>whole Armie, or by light ſkirmiſhes and Fortreſſes.</item>
+                                    <item>Spoyling the fields, and by beſieging their cities.</item>
+                                    <item>Making experiment with the whole Armie, in one ſet battle, or by many long bat<g ref="char:EOLhyphen"/>tailes.</item>
+                                 </list>
+                              </item>
+                              <item>
+                                 <pb facs="tcp:185158:13"/>
+How the whole hoaſt and armie is to be ordered and ſet in array, when a ſlaughtering and moſt cruell war is to be vndertaken and diſpatched.</item>
+                              <item>What places are moſt meete for receiuing their Garriſons, and what places are inconuenient.</item>
+                              <item>What Captaines and particular Bands and captainſhips they ſhall haue.</item>
+                              <item>From whom we may get food and victuals.
+<list>
+                                    <item>Who wanteth food and victuals, dieth through hun<g ref="char:EOLhyphen"/>ger, not by the ſwoord.</item>
+                                 </list>
+                              </item>
+                              <item>How we ought to vſe the victory being gotten.</item>
+                              <item>How our Souldiers ſubdued in Warre, are to be comforted and encouraged in mind.</item>
+                           </list>
+                        </item>
+                     </list>
+                     <list>
+                        <head>
+                           <gap reason="illegible" resp="#APEX" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> defen<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#APEX" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>e war,</head>
+                        <item>It muſt be kno<g ref="char:EOLhyphen"/>wen,
+<list>
+                              <item>How
+<list>
+                                    <item>our Country, Citie
+<list>
+                                          <item>is fenced.
+<list>
+                                                <item>by Nature,
+<list>
+                                                      <item>by land,</item>
+                                                      <item>by sea,
+<list>
+                                                            <item>with rocks,</item>
+                                                            <item>with mountaines,</item>
+                                                            <item>with woods,</item>
+                                                            <item>with mariſhes.</item>
+                                                         </list>
+                                                      </item>
+                                                   </list>
+                                                </item>
+                                                <item>By Art, with
+<list>
+                                                      <item>Hauens,</item>
+                                                      <item>Caſtles,</item>
+                                                      <item>Fortreſſes,</item>
+                                                      <item>Ditches.</item>
+                                                   </list>
+                                                </item>
+                                             </list>
+                                          </item>
+                                          <item>may be fenced with—
+<list>
+                                                <item>new hauens,</item>
+                                                <item>Caſtles,</item>
+                                                <item>Munitions,</item>
+                                                <item>Trenches and ditches.</item>
+                                             </list>
+                                          </item>
+                                       </list>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>what things are neceſſary, and of what for the Garriſons of our owne Souldiers or of forreyners are,
+<list>
+                                    <item>becauſe if
+<list>
+                                          <item>they want, it is requiſite that they be augmented</item>
+                                          <item>they are ouer-many, that they be <gap reason="illegible" resp="#APEX" extent="1 letter">
+                                                <desc>•</desc>
+                                             </gap>bated.</item>
+                                       </list>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>what places are fit for
+<list>
+                                    <item>our enemies to aſſault vs,
+<list>
+                                          <item>that we leaue ſtrong places.
+<list>
+                                                <item>Let that bee the chiefeſt part of a Citie, for whome it is moſt expedie<g ref="char:cmbAbbrStroke">̄</g>t that all things be quiet.</item>
+                                             </list>
+                                          </item>
+                                          <item>that we fence daun<g ref="char:EOLhyphen"/>gerous places.</item>
+                                       </list>
+                                    </item>
+                                    <item>vs, to defend our ſelues,</item>
+                                    <item>It is more eaſie to keepe out the enemie, than to expell him being let in.</item>
+                                 </list>
+                              </item>
+                              <item>
+                                 <pb facs="tcp:185158:14"/>
+It muſt be con<g ref="char:EOLhyphen"/>ſidered
+<list>
+                                    <item>what warres many yeeres haue bene made in our countrey, or in other places,</item>
+                                    <item>how they haue bene managed.
+<list>
+                                          <item>Let not continuall warre be made, although with an <gap reason="illegible" resp="#APEX" extent="1 word">
+                                                <desc>〈◊〉</desc>
+                                             </gap> experienced enemie.</item>
+                                       </list>
+                                    </item>
+                                    <item>vpon what cauſes they aroſe.</item>
+                                    <item>how they were ended.</item>
+                                    <item>It is very eaſie to iudge the like of the like things. But hee who followeth auncient and excel<g ref="char:EOLhyphen"/>lent examples without particular obſeruation, ſhall ſometime greatly erre.</item>
+                                 </list>
+                              </item>
+                              <item>We ought to ſee
+<list>
+                                    <item>how manie what
+<list>
+                                          <item>friends wee can call to ayde vs; leſt wee raſhly prouoke them who are mo<gap reason="illegible" resp="#APEX" extent="1 span">
+                                                <desc>〈…〉</desc>
+                                             </gap> mightie then wee.</item>
+                                       </list>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Wee muſt preuent the iniuries of them who are more mightie, not by raſhly reuenging, but by taki<gap reason="illegible" resp="#APEX" extent="1 span">
+                                    <desc>〈…〉</desc>
+                                 </gap> heede of worſe turn<gap reason="illegible" resp="#APEX" extent="1 span">
+                                    <desc>〈…〉</desc>
+                                 </gap>
+                              </item>
+                              <item>Improuident &amp; blind haſt, is vnfortunate: but delay ſtopping the wa<g ref="char:cmbAbbrStroke">̄</g>dring vehemecy of the minde, pro<gap reason="illegible" resp="#APEX" extent="1 span">
+                                    <desc>〈…〉</desc>
+                                 </gap>
+                                 <g ref="char:EOLhyphen"/>teth much, which although they ſtraightway appeare not, yet in due time any one may certainly find <gap reason="illegible" resp="#APEX" extent="1 word">
+                                    <desc>〈◊〉</desc>
+                                 </gap>
+                              </item>
+                              <item>To conclude, weee muſt take heede
+<list>
+                                    <item>leaſt in ending warre, or ſuccouring others, warre bee ſo extinguiſhed abroade, tha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                          <desc>•</desc>
+                                       </gap> bee kindled at home.</item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Of Peace.</head>
+               <p>The moſt firme league, peace and amitie is, that, which is purchaſed through opinion of vertue, likeneſſe of manners, and conſent of Religion.</p>
+               <p>The beſt league is, to do well, for with ſuch men <hi>GOD</hi> himſelfe is confederate, ſaith <hi>Iſocrates.</hi>
+               </p>
+               <list>
+                  <item>Pe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ac is eyther to be made. Heere we ought to offer
+<list>
+                        <item>Conditi<g ref="char:EOLhyphen"/>ons, wher care is to bee had of the
+<list>
+                              <item>Time. For ſometime theſe conditions (in conuenient time) will be thankfully and willing accepted, which afterward may bee ſuſpected and reiected.</item>
+                              <item>Reaſons, wherby our aduerſaries are perſwaded to accept our co<g ref="char:cmbAbbrStroke">̄</g>ditions of peace, being offere<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>
+                              </item>
+                              <item>Perſons treating of peace. For very often it happeneth, that the ſelfe ſame truces are confirm<gap reason="illegible" resp="#APEX" extent="1 span">
+                                    <desc>〈…〉</desc>
+                                 </gap> or reiected, by reaſon of the inequalitie of the perſons handling the matter.</item>
+                              <item>Conditions the<g ref="char:cmbAbbrStroke">̄</g>ſelues, leaſt they ſeeme
+<list>
+                                    <item>Dangerous,
+<list>
+                                          <item>Craftie and bold policies are at the firſt ſight pleaſant, hard to <gap reason="illegible" resp="#APEX" extent="1 word">
+                                                <desc>〈◊〉</desc>
+                                             </gap> handled, and in the euent dolefull.</item>
+                                          <item>The vnequall conditions and policies of <hi>Lycidas</hi> and <hi>Circilus</hi> a<gap reason="illegible" resp="#APEX" extent="1 span">
+                                                <desc>〈…〉</desc>
+                                             </gap> to be ſhunned. <hi>Herod<gap reason="illegible" resp="#APEX" extent="1 span">
+                                                   <desc>〈…〉</desc>
+                                                </gap>
+                                             </hi>
+                                          </item>
+                                          <item>Some cures are more greeuous then the diſeaſe it ſelfe, where it better die, then by them go about to recouer health.</item>
+                                       </list>
+                                    </item>
+                                    <item>Difficult,</item>
+                                    <item>Intollerable,</item>
+                                    <item>Diſhoneſt.</item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+                  <item>
+                     <pb facs="tcp:185158:14"/>
+Pre<g ref="char:EOLhyphen"/>ſer<g ref="char:EOLhyphen"/>ued.
+<list>
+                        <item>To ac<g ref="char:EOLhyphen"/>cept con<g ref="char:EOLhyphen"/>ditions. Where it muſt be co<g ref="char:cmbAbbrStroke">̄</g>ſidered.
+<list>
+                              <item>Vpon what cauſe our aduerſaries to make a league with vs, whether they are per<g ref="char:EOLhyphen"/>ſwaded.
+<list>
+                                    <item>voluntarily, or vpon neceſſitie.</item>
+                                 </list>
+                              </item>
+                              <item>what ayde
+<list>
+                                    <item>we or our enemies haue
+<list>
+                                          <item>to make warre.</item>
+                                       </list>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>How the Souldiers are affected.</item>
+                              <item>what kinds of co<g ref="char:cmbAbbrStroke">̄</g>ditions they be. For if they appeare to be iuſt &amp; honeſt, we muſt be<g ref="char:EOLhyphen"/>ware leſt in re<g ref="char:EOLhyphen"/>fuſing them, we ſeeme
+<list>
+                                    <item>Obſtinate or ſtiffe necked, as the Iewes were in the ſiege of <hi>Hieruſale<g ref="char:cmbAbbrStroke">̄</g>.</hi>
+                                    </item>
+                                    <item>Proud and hawtie, as <hi>Pompeius, &amp;c.</hi> in contemning truce with <hi>Caeſar,</hi> who when <hi>Cicero</hi> brought moſt indifferent conditions of peace, was willing to diſmiſſe his armie; but <hi>Pompey</hi> deſpiſed him, as his enemie, but afterward was ſlaine in vnfortunate warre, wherein alſo two hun<g ref="char:EOLhyphen"/>dred thouſand men were ſlaine.</item>
+                                    <item>
+                                       <hi>Philo</hi> telleth vs, that it is better to haue peace, although not commodi<g ref="char:EOLhyphen"/>ous and indifferent, than to vndertake warre with great miſchiefes.
+<list>
+                                          <item>Peace is a worke full of vertue, peace is the ſumme of labour.</item>
+                                          <item>Peace is the reward of finiſhed warre, &amp; the reward of danger.</item>
+                                          <item>A man vnhurt, will ſleepe better, than he who is wounded.</item>
+                                       </list>
+                                    </item>
+                                    <item>The beuers, in hunting, bite of their ſtones, when as they perceiue that for this cauſe they are purſued: ſo it is the part of a wiſe man, ſomtime to caſt away that thing, for which he is endaungered. <hi>Plin.</hi>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ith <gap reason="illegible" resp="#APEX" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>rreine <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eople</head>
+                  <item>adioyning,
+<list>
+                        <item>who loue vs,</item>
+                        <item>who maligne vs,</item>
+                        <item>who carry them<g ref="char:EOLhyphen"/>ſelues indiffere<g ref="char:cmbAbbrStroke">̄</g>t<g ref="char:EOLhyphen"/>ly towards vs.
+<list>
+                              <item>Heere wee ought to ſee
+<list>
+                                    <item>with who<g ref="char:cmbAbbrStroke">̄</g> we ought
+<list>
+                                          <item>to make leagues.</item>
+                                          <item>to preſerue frie<g ref="char:cmbAbbrStroke">̄</g>d<g ref="char:EOLhyphen"/>ſhip, to ſhew loue &amp; good, will, ei<g ref="char:EOLhyphen"/>ther by
+<list>
+                                                <item>deed, or coun<g ref="char:EOLhyphen"/>ter fait it onely by word.
+<list>
+                                                      <item>by whom how ope<g ref="char:cmbAbbrStroke">̄</g>
+                                                         <g ref="char:EOLhyphen"/>ly, how ſecretly, how lo<g ref="char:cmbAbbrStroke">̄</g>g.</item>
+                                                   </list>
+                                                </item>
+                                             </list>
+                                          </item>
+                                       </list>
+                                    </item>
+                                    <item>By what offices we may
+<list>
+                                          <item>pacifie the offended,</item>
+                                          <item>confirme the doubtful,</item>
+                                          <item>perſwade the ſuſpitious,</item>
+                                       </list>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+                  <item>dwelling farre of:</item>
+               </list>
+               <list>
+                  <pb facs="tcp:185158:15"/>
+                  <label>Peace is preſerued by auoy<g ref="char:EOLhyphen"/>ding of<g ref="char:EOLhyphen"/>fences &amp; enmities</label>
+                  <item>
+                     <list>
+                        <item>with do<g ref="char:EOLhyphen"/>meſticall people: which may ariſe through neglige<g ref="char:cmbAbbrStroke">̄</g>ce &amp; defect of
+<list>
+                              <item>Inſtructions, which doe not reſpect the education of youth. For it is eſpecially to be conſidered.
+<list>
+                                    <item>what doctrine ought to be
+<list>
+                                          <item>taught in a expelled from
+<list>
+                                                <item>Common-wealth.</item>
+                                             </list>
+                                          </item>
+                                       </list>
+                                    </item>
+                                    <item>what ſtudies are con<g ref="char:EOLhyphen"/>uenient for euerie age, to
+<list>
+                                          <item>adorne the mind with
+<list>
+                                                <item>Diuinitie.</item>
+                                                <item>morall Phyloſophie.</item>
+                                                <item>Hiſtories, &amp;c.</item>
+                                             </list>
+                                          </item>
+                                          <item>ſtirre vp
+<list>
+                                                <item>ſtrength</item>
+                                                <item>Agilitie
+<list>
+                                                      <item>of the body.</item>
+                                                   </list>
+                                                </item>
+                                                <item>health</item>
+                                             </list>
+                                          </item>
+                                       </list>
+                                    </item>
+                                    <item>How much time is to be ſpent in learning, &amp;c.</item>
+                                    <item>Good education is called the foundation of wiſedome.</item>
+                                 </list>
+                              </item>
+                              <item>Ordayning of Magiſtrates
+<list>
+                                    <item>how many, what
+<list>
+                                          <item>Magiſtrates the common-wealth wanteth.
+<list>
+                                                <item>who are worthy &amp; fit for euery place, t<gap reason="illegible" resp="#APEX" extent="2 letters">
+                                                      <desc>••</desc>
+                                                   </gap> theſe may be called tobeare office, leſt <gap reason="illegible" resp="#APEX" extent="1 word">
+                                                      <desc>〈◊〉</desc>
+                                                   </gap> enuious doe ſpeake in reproach of the <gap reason="illegible" resp="#APEX" extent="1 span">
+                                                      <desc>〈…〉</desc>
+                                                   </gap>
+                                                   <g ref="char:EOLhyphen"/>ther: according to that of the Poet.</item>
+                                             </list>
+                                          </item>
+                                       </list>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Two things eſpecially doe rule all the counſels and actions of wiſe men in the common-wea<gap reason="illegible" resp="#APEX" extent="1 span">
+                                    <desc>〈…〉</desc>
+                                 </gap> and priuate life, vz.</item>
+                              <item>Hearing, o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap> precepts, ſet down in the word of God, in Phyloſophy, and honeſt lawes.</item>
+                              <item>Examples of counſels, euents and puniſhments: which are more notable, and more effectual<gap reason="illegible" resp="#APEX" extent="1 span">
+                                    <desc>〈…〉</desc>
+                                 </gap> moue and pearſe the minds of the ruder ſort.</item>
+                              <item>An Hiſtorie wiſely written (as <hi>Cicero</hi> ſaith) is the miſtreſſe of life, and the witneſſe of times, <gap reason="illegible" resp="#APEX" extent="1 word">
+                                    <desc>〈◊〉</desc>
+                                 </gap> light of truth, the meſſenger of antiquitie, &amp; <hi>Thucididies</hi> calleth it the picture &amp; theater of <gap reason="illegible" resp="#APEX" extent="1 word">
+                                    <desc>〈◊〉</desc>
+                                 </gap> life, agreeing to all times of this world: wherein as the nature of man continueth the ſame: their diſpoſitions, manners, buſineſſes, occaſions, counſels, euents, miſdoings, and alſo for t<gap reason="illegible" resp="#APEX" extent="1 span">
+                                    <desc>〈…〉</desc>
+                                 </gap> moſt part, the ſame offences continue.</item>
+                              <item>Onely the perſons and Actors of the Hiſtorie, do ſucceede new euery age; and the names bei<gap reason="illegible" resp="#APEX" extent="1 span">
+                                    <desc>〈…〉</desc>
+                                 </gap> changed, the ſtories are now told as it were of our ſelues.
+<list>
+                                    <item>Oh ſhame! men vnwiſe, and of a groſſe braine,</item>
+                                    <item>
+                                       <pb facs="tcp:185158:15"/>
+Deſpiſers of learning (who haue onely care of dycing,
+<list>
+                                          <item>Or to feede dogges, horſes and hawkes,</item>
+                                          <item>And to leade a childiſh life in continuall ſportes)</item>
+                                          <item>Do beare the Scepters, rule the people, and gouerne Cities.</item>
+                                          <item>Hence come ſo many thouſand ſcabbes of errors, ſo manie ſinkes of follies, ſo manie thouſands of miſchieous deeds.</item>
+                                       </list>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>Appointing of gifts and rewards, for euery one that well deſerueth, whether they bee</head>
+                  <item>
+                     <table>
+                        <row>
+                           <cell>1</cell>
+                           <cell>Noble, or</cell>
+                           <cell rows="10">For it is not well if</cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>Ignoble,</cell>
+                        </row>
+                        <row>
+                           <cell>2</cell>
+                           <cell>Souldiers,</cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>Peacemakers,</cell>
+                        </row>
+                        <row>
+                           <cell>3</cell>
+                           <cell>Learned,</cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>Vnlearned,</cell>
+                        </row>
+                        <row>
+                           <cell>4</cell>
+                           <cell>Magiſtrates,</cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>Priuate men,</cell>
+                        </row>
+                        <row>
+                           <cell>5</cell>
+                           <cell>Cleargie men,</cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>Laye men.</cell>
+                        </row>
+                     </table>
+                     <list>
+                        <item>Good men
+<list>
+                              <item>bee obſcured, as it were with darkenes</item>
+                              <item>enuironing them, &amp; be not regarded:</item>
+                              <item>be adorned with no praiſe of due honor,</item>
+                              <item>be difficultly, faintly &amp; coldly, preferred.</item>
+                           </list>
+                        </item>
+                        <item>Where there bee fewe which deſire offices, there the com<g ref="char:EOLhyphen"/>mon wealth is in daunger.</item>
+                        <item>By rewards &amp; honors, excellent wittes are ſtirred vp with a more earneſt vehemency of minde, to the ſtudy of vertue.</item>
+                        <item>Let no eſtate of men bee depriued of hope to attaine anie preheminence, ſauing what belongeth to the King.</item>
+                        <item>Let a more honorable office bee giuen to the more noble, a more gainefull office to the poorer ſorte, other things being equall.</item>
+                        <item>Bad men be pre<g ref="char:EOLhyphen"/>ferred as,
+<list>
+                              <item>Tale-bearers
+<list>
+                                    <item>Hee who giueth more to him that ill deſerueth it, and leſſe to him who wel deſerued, is iniuri<g ref="char:EOLhyphen"/>ous &amp; vniuſt.</item>
+                                    <item>Good turnes ill beſtowed, are eſteemed ill deeds.</item>
+                                    <item>Let wicked and miſchieuous men be puniſhed.</item>
+                                 </list>
+                              </item>
+                              <item>Scoffers,</item>
+                              <item>Falſe accuſers</item>
+                              <item>Diſhoneſt,</item>
+                              <item>Flatterers, &amp;c.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <item>
+                     <pb facs="tcp:185158:16"/>
+Remedies are to be inuented, and applied to the ſickneſſes and diſ<g ref="char:EOLhyphen"/>eaſes of the com<g ref="char:EOLhyphen"/>mon wealth.
+<list>
+                        <item>Ambition: which diſeaſe is ſpread farre and wide, and increaſeth daily.</item>
+                        <item>Couetouſnes and pride of
+<list>
+                              <item>Noblemen.
+<list>
+                                    <item>It is vncertaine what the euening bringeth, therefore wee muſt not bee proud in aduerſitie.</item>
+                                 </list>
+                              </item>
+                              <item>Magiſtrates.</item>
+                              <item>Angrie men hate pride, wiſe men deride it.</item>
+                           </list>
+                        </item>
+                        <item>Prodigall ſpending of ones wealth, eſpecially of them who are indebted vnto others.</item>
+                        <item>Want &amp; need of others: for many kept vnder with want, haue deſperatly robbed the co<g ref="char:cmbAbbrStroke">̄</g>mon wealth.</item>
+                        <item>Impuritie of offenders, and iniurious men, make the Lawes to be contemned.</item>
+                     </list>
+                  </item>
+                  <item>Iniuries are offe<g ref="char:EOLhyphen"/>red
+<list>
+                        <item>to the inferiours by their ſuperiours: that is to ſay,
+<list>
+                              <item>To the common ſort by the Nobles:
+<list>
+                                    <item>Thereby wee read in the <hi>Romane</hi> Empire, that the Kings were expelled, and that the ſtate of the common-wealth was pluckt diuers wayes and altered.</item>
+                                 </list>
+                              </item>
+                              <item>To priuate men by Magiſtrates:
+<list>
+                                    <item>Thereby alſo in <hi>Heluetia,</hi> the Magiſtrates and Nobles were driuen away, and the policie of the people erected.</item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                        <item>To equalls by theyr equalls, that is to ſay;
+<list>
+                              <item>To Magiſtrates by Magiſtrates.
+<list>
+                                    <item>Hereby deadly warre haue oftentimes aroſe.</item>
+                                    <item>Empires haue bene rent and torne aſunder.</item>
+                                 </list>
+                              </item>
+                              <item>The times of <hi>Sylla</hi> &amp; <hi>Marius</hi> were moſt lamentable to the co<g ref="char:cmbAbbrStroke">̄</g>mon wealth of <hi>Rome</hi>
+                              </item>
+                              <item>By one priuate man to another
+<list>
+                                    <item>Through a rod kindled, or a candle left negligently in a houſe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                          <desc>•</desc>
+                                       </gap> the whole Cittie is oftentimes ſet on fire: ſo of priuate ha<gap reason="illegible" resp="#APEX" extent="1 span">
+                                          <desc>〈…〉</desc>
+                                       </gap> and diſſenſion, a publick dammage ſometimes ariſeth.</item>
+                                    <item>Inward ſedition is by ſo much more hurtfull than warre, (whereas it is archieued againſt forreyners with agreeing mindes) by how much warre is worſe then peace.</item>
+                                    <item>Wee ought to contend at all times, not with priuie grudg<gap reason="illegible" resp="#APEX" extent="2 letters">
+                                          <desc>••</desc>
+                                       </gap> and hatreds, but whether of all can beſt deſerue of o<gap reason="illegible" resp="#APEX" extent="1 span">
+                                          <desc>〈…〉</desc>
+                                       </gap> Prince and Countrey, and doe moſt good for it.
+<list>
+                                          <item>
+                                             <hi>Ariſtides.</hi>
+                                          </item>
+                                          <item>
+                                             <hi>Themiſtocl.</hi>
+                                          </item>
+                                       </list>
+                                    </item>
+                                    <item>
+                                       <pb facs="tcp:185158:16"/>
+All things are to bee ordered and gouerned at home, with counſell and the arts of peace.</item>
+                                    <item>The diſagreement of degrees is the bane of the common-wealth.</item>
+                                    <item>
+                                       <table>
+                                          <row>
+                                             <cell>The ambition of ſuperiours</cell>
+                                             <cell rows="3">are to bee taken heede off.</cell>
+                                          </row>
+                                          <row>
+                                             <cell>The enuie of equalles</cell>
+                                          </row>
+                                          <row>
+                                             <cell>The ſuſpition of inferiours</cell>
+                                          </row>
+                                       </table>
+                                    </item>
+                                    <item>Withdraw the matter, and the fire will be quenched.</item>
+                                    <item>Take away the occaſion, and hatred or enuie will ceaſe,</item>
+                                    <item>Friendſhip ought to bee immortall, andenmities ought to bee mortall.</item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+                  <item>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ouching foode and victualls neceſſary for <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he ſuſtenaunce of a common wealth.</item>
+                  <item>In preparation of foode and victualls neceſſary to ſuſtaine the common-wealth. &amp;c. wee ought
+<list>
+                        <item>To conſider all things
+<list>
+                              <item>In their kindes, for either
+<list>
+                                    <item>they are miniſtred to vs, by forraine Countreys: or are at home, &amp; growing in our owne Countrie.</item>
+                                 </list>
+                              </item>
+                              <item>in their quantity
+<list>
+                                    <item>How much the co<g ref="char:cmbAbbrStroke">̄</g>monwealth wil need in time of
+<list>
+                                          <item>warre &amp; peace.</item>
+                                       </list>
+                                    </item>
+                                    <item>how much will be ſpare to tranſport
+<list>
+                                          <item>to whom,</item>
+                                          <item>when,</item>
+                                          <item>how.</item>
+                                       </list>
+                                    </item>
+                                    <item>how much is to be diſt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                          <desc>•</desc>
+                                       </gap>ibuted to euerie one in
+<list>
+                                          <item>warre, and peace,</item>
+                                       </list>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                        <item>To take heede leaſt by the malice and enuie of ſome
+<list>
+                              <item>our common wealth be deſtitute, &amp; afflicted
+<list>
+                                    <item>by vnlawfull tranſ<g ref="char:EOLhyphen"/>portations, or Mo<g ref="char:EOLhyphen"/>nopolies at home.</item>
+                                 </list>
+                              </item>
+                              <item>our friends, being in great want, bee not ſatiſfied and refreſhed,</item>
+                              <item>our ennemies do freely eni<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>y our benefites and commodities.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <p>Heereof many men make greeuous complaint, and therefore g<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eat care is heere to bee vſed.</p>
+               <p>For it ſuffiſeth not to haue lawes and proclamations touching loue and charity, and moderating our deſires &amp; ſuperfluous exp<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, but (couetouſnes and blinde luſts being repreſſed,) to deale more moderately and religiouſly towards our Countrie and neighbours. For not our wordes, but our deedes ought to agree to holie lawes.</p>
+               <p>
+                  <pb facs="tcp:185158:17"/>
+The ſight alſo, and almoſt the feeling of moſt wofull calamities, the long continuance and great burden of warres, fa<g ref="char:EOLhyphen"/>mine, peſtilences, ſeditions and great ſlaughters, which for very many yeares hath ſpoyled adioyning countries, ought to mooue vs through true penance, godlineſſe and obedience of our whole life, to put away henceforth, the anger of God<g ref="char:punc">▪</g> and perhaps the like puniſhments hanging ouer our heads.</p>
+               <div type="section">
+                  <head>It comforteth me to haue eſcaped ſo many Grecian cities, and to haue kept the middle way through my enemies. <hi>Virg.</hi>
+                  </head>
+                  <p>We ought alſo to be mindfull that d<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>th hangeth ouer euery mans head, and we muſt once tread the way of death. Therefore we muſt prouide ſuch wealth, which (the ſhip being broken) may ſwim out together with their maiſter. There is nothing worſe, nothing more hated, nothing more repugnant to Gods ordinances, than the crime of auarice, and cruell outragiouſneſſe.</p>
+                  <p>Curſed is that couetous Steward whoſe maiſter is bountifull. <hi>Bernard.</hi>
+                  </p>
+                  <p>As in quick-ſiluer all things ſwimme, except gold; for this is one thing it draweth too it: ſo nothing ſinketh into the mind of a couetous man, beſide gayne. Charitie, pietie and honeſtie, ſwimme on the top: they deſcend not into the heart.</p>
+                  <p>The fiſh <hi>Polypus,</hi> being otherwiſe a blockiſh creature, vſeth incredible skill in catching the oyſter: ſo ſome men are ver<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> wiſe onely in gayning; in other things they are mere beaſts.</p>
+                  <p>Let him that is condemned of Auarice, enuie and impietie, be excluded from euery office of the Common-wealth.</p>
+               </div>
+               <div type="section">
+                  <pb facs="tcp:185158:17"/>
+                  <head>Touching the principall and chiefeſt notes, wherein we muſt purſu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> a matter in diſputation.</head>
+                  <list>
+                     <item>Perſwadeth <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n a queſ<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ion
+<list>
+                           <item>Simple, wee muſt vrge that this is
+<list>
+                                 <item>poſſible, eaſie, honeſt,</item>
+                                 <item>religious, laudadle, honourable,</item>
+                                 <item>profitable, neceſſary,</item>
+                                 <item>ſafe, pleaſant.</item>
+                              </list>
+                           </item>
+                           <item>Comparatiue:
+<list>
+                                 <item>more poſſible,</item>
+                                 <item>more eaſie,
+<list>
+                                       <item>the ten wayes, as aboue.</item>
+                                    </list>
+                                 </item>
+                                 <item>more honeſt, &amp;c.</item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Diſſwadeth in queſtion.
+<list>
+                           <item>Simple, here we muſt vrge that this is
+<list>
+                                 <item>Impoſſible, hard, vnhoneſt,</item>
+                                 <item>Irreligious, diſcommendable,</item>
+                                 <item>Ignoble, vnprofitable,</item>
+                                 <item>vnneceſſary, dangerous, vnpleaſant.</item>
+                              </list>
+                           </item>
+                           <item>Comparatiue:
+<list>
+                                 <item>
+                                    <table>
+                                       <row>
+                                          <cell>more impoſſible,</cell>
+                                          <cell rows="4">the ten wayes as aboue.</cell>
+                                       </row>
+                                       <row>
+                                          <cell>more difficult,</cell>
+                                       </row>
+                                       <row>
+                                          <cell>more irreligious,</cell>
+                                       </row>
+                                       <row>
+                                          <cell>more diſhoneſt, &amp;c.</cell>
+                                       </row>
+                                    </table>
+                                 </item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </div>
+               <div type="section">
+                  <head>Touching the Methode which is to be obſerued in perſwading and diſputing.</head>
+                  <list>
+                     <item>Inuention of Arguments wherewith
+<list>
+                           <item>we may
+<list>
+                                 <item>
+                                    <table>
+                                       <row>
+                                          <cell>prooue</cell>
+                                          <cell rows="3">things.</cell>
+                                       </row>
+                                       <row>
+                                          <cell>refute</cell>
+                                       </row>
+                                       <row>
+                                          <cell>amplifie</cell>
+                                       </row>
+                                    </table>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>we may effect the Auditors.
+<list>
+                                 <item>beningnely,</item>
+                                 <item>pleaſantly,</item>
+                                 <item>vehemently
+<list>
+                                       <item>with hope,</item>
+                                       <item>with feare,</item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Placing of Arguments, for arguments
+<list>
+                           <item>of greater efficacie and vertue are to be placed in the
+<list>
+                                 <item>beginning.</item>
+                                 <item>ending.</item>
+                              </list>
+                           </item>
+                           <item>of leſſer moment are to be heaped together n the midſt.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <p>
+                     <gap reason="illegible" resp="#APEX" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> with what excelle<g ref="char:cmbAbbrStroke">̄</g>t ſentences &amp; el<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>quent <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </p>
+                  <list>
+                     <pb facs="tcp:185158:18"/>
+                     <head>Heere a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>ſo is to be noted, that argume<g ref="char:cmbAbbrStroke">̄</g>ts are to be taken fro<g ref="char:cmbAbbrStroke">̄</g> places of</head>
+                     <item>Rhetori<g ref="char:EOLhyphen"/>cians, which are called A<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>tributes of
+<list>
+                           <item>Perſons where
+<list>
+                                 <item>are comprehended
+<list>
+                                       <item>
+                                          <table>
+                                             <row>
+                                                <cell>the name</cell>
+                                                <cell rows="2">of a man.</cell>
+                                             </row>
+                                             <row>
+                                                <cell>the nature</cell>
+                                             </row>
+                                          </table>
+                                       </item>
+                                    </list>
+                                 </item>
+                                 <item>are related the—
+<list>
+                                       <item>Nation,</item>
+                                       <item>countrey,</item>
+                                       <item>kindred,</item>
+                                       <item>flocke,</item>
+                                       <item>ſexe,</item>
+                                       <item>age,</item>
+                                       <item>commodities,</item>
+                                       <item>diſcommodities,
+<list>
+                                             <item>of body,</item>
+                                             <item>of fortune.</item>
+                                          </list>
+                                       </item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>
+                              <hi>Herodotus</hi> admoniſheth vs ſometime to imitate the natures and manners of men, the natures of the countries and places wherein they are borne.</item>
+                           <item>Life: where are conſidered the
+<list>
+                                 <item>foſteres, and helpers,</item>
+                                 <item>Schoole-maiſters &amp; teachers,</item>
+                                 <item>friends, ſeruants, profeſſion,</item>
+                                 <item>Sort, ſtate.</item>
+                              </list>
+                           </item>
+                           <item>Habite of
+<list>
+                                 <item>Bodie,</item>
+                                 <item>minde.</item>
+                              </list>
+                           </item>
+                           <item>Studies and counſels.</item>
+                           <item>Accidents which haue happened to them.</item>
+                           <item>Conferences and often ſpeeches.</item>
+                           <item>Actions.</item>
+                           <item>Things: whereof are numbred
+<list>
+                                 <item>Time, place, fact, matter, cauſe, power,</item>
+                                 <item>inſtruments, and the manner of doing.</item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+                  <list>
+                     <pb facs="tcp:185158:18"/>
+                     <label>
+                        <hi>Logicians</hi> according to <hi>Ramus</hi> vz. by the</label>
+                     <item>
+                        <list>
+                           <item>Cauſes,</item>
+                           <item>Effects,</item>
+                           <item>Subiects,</item>
+                           <item>Adiuncts,</item>
+                           <item>Diſagreeing things,</item>
+                           <item>Comp<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>red things,</item>
+                           <item>Name,</item>
+                           <item>Diſtribution,</item>
+                           <item>Definition,</item>
+                           <item>Teſtimonie.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <p>But now Methode and order require that this my Epitome beganne with holy things, ſhould be ended with holy and di<g ref="char:EOLhyphen"/>uine things. Let it pleaſe you therefore, that fewe things bee in generall explicated touching the three Theologicall vertues.</p>
+                  <p>It is neceſſary, that our ſoule, as touching the ſuperiour part, wherein the image of God conſiſteth, be rectified by the three Theologicall vertues,
+<list>
+                        <item>Faith,</item>
+                        <item>Hope,</item>
+                        <item>Charitie.</item>
+                     </list>
+                  </p>
+                  <p>Faith (according to the Apoſtle) is ſaide to be the ſubſtance or foundation of things to be hoped for through Grace, and an argument of things not ſeene, inclining the vnderſtanding to beleeue thoſe things which appeare not. This is a very excellent deſcription of faith by the Effects, becauſe it repreſenteth things, as yet conſiſting in hope, and putteth inui<g ref="char:EOLhyphen"/>ſible things as it were before our eyes.</p>
+                  <p>Hope is a certaine expectation of future bleſſedneſſe, proceeding from the onely grace of God.</p>
+                  <p>Charitie (according to the Apoſtle) is ſaid to be a diuine loue and right will, altogether turned away from all worldly and preſent things, vnſeperably ioyned and vnited to God, kindled with a certaine fire of the holy Ghoſt (from whence it is, and whereunto it is referred) free from all pollution, not knowing to be corrupted, deſirous of diuine contempla<g ref="char:EOLhyphen"/>tion, the life of vertues, and is accounted the end of all heauenly precepts.</p>
+                  <p>Faith directeth in beleeuing the chiefeſt truth.</p>
+                  <p>Hope in imitating and expecting the chiefeſt hard thing.</p>
+                  <p>
+                     <pb facs="tcp:185158:19"/>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ut <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>aritie in deſiring and louing the chiefeſt good.</p>
+                  <list>
+                     <item>
+                        <gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>eſe vertues h<gap reason="illegible" resp="#APEX" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> their proper actions.
+<list>
+                           <item>Faith maketh vs aſſent to God.</item>
+                           <item>Hope maketh vs truſt in God.</item>
+                           <item>Charitie maketh vs to loue God.</item>
+                        </list>
+                     </item>
+                     <item>They alſo worke diuers wayes by reaſon of the obiect
+<table>
+                           <row>
+                              <cell>Faith</cell>
+                              <cell rows="3">is conuerſant about</cell>
+                              <cell>the truth,</cell>
+                           </row>
+                           <row>
+                              <cell>Hope</cell>
+                              <cell>a difficult thing,</cell>
+                           </row>
+                           <row>
+                              <cell>Charity</cell>
+                              <cell>good.</cell>
+                           </row>
+                        </table>
+                     </item>
+                     <item>Laſtly, they differ by reaſon of the effect.—
+<list>
+                           <item>Faith, followeth God, preſently.</item>
+                           <item>Hope accompanieth to Heauen.</item>
+                           <item>Charitie euerlaſtingly embraceth Almighty God.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <p>Hence it is manifeſt, that amongſt theſe three Vertues, Faith is accompted the greateſt, as which (according to the Apo<g ref="char:EOLhyphen"/>ſtle) is not aboliſhed in the life to come, as the others; but is perfected. Becauſe whereas Faith and Hope is ca<g ref="char:EOLhyphen"/>ried into promiſed and future things, when wee haue obtained them preſent, to what ende ſhould wee have Faith and hope. But there both wee ſhall alwayes mutuallie loue God, and God will loue vs truely and perfectly. To conclude, euen as God hath placed in Heauen the Sun, who repreſenteth him towardes all men, both in Theologicall, and alſo in Cardinall vertues, (that is to ſay, Temperance, Iuſtice, and Liberalitie.)</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:185158:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
